@@ -15,3 +15,9 @@ function gestureStart() {
     }
   }
 }
+
+<script type="text/javascript">
+  $(function(){
+    parent.postMessage(JSON.stringify({subject: 'lti.frameResize', height: $(document).height()+"px"}), '*');
+  });
+</script>
