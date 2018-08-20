@@ -7,12 +7,12 @@ highlighter:         rouge
 permalink:           pretty
 
 # Setup
-title:               Acbart Site
-tagline:             Basic site from Github pages
+title:               Acbart ePortfolio
+tagline:             Computing Education
 url:                 http://acbart.github.io/
 baseurl:             /
 
 description: Github Pages for acbart
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
