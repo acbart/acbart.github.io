@@ -1,23 +1,14 @@
 # Publications
 
+A. C. Bart, E. Tilevich, C. A. Shaffer, D. Kafura, _Reconciling the Promise and Pragmatics of Enhancing Computing Pedagogy with Data Science_, SIGCSE '18, Baltimore, MD. February, 2018.  
 
-A. C. Bart, E. Tilevich, C. A. Shaffer, D. Kafura,_Reconciling the Promise and Pragmatics of Enhancing Computing Pedagogy with Data Science_, SIGCSE '18, Baltimore, MD. February, 2018.
+L. Gusukuma, A. C. Bart, D. Kafura, _Instructional Design + Knowledge Components: A Systematic Method for Refining Instruction,_ SIGCSE '18, Baltimore ,MD. February, 2018.
 
-  
+B. Chowdhury, A. C. Bart, D. Kafura, _Analysis of Collaborative Learning in a Computational Thinking Class_, SIGCSE '18, Baltimore, MD. February, 2018.
 
-L. Gusukuma, A. C. Bart, D. Kafura,_Instructional Design + Knowledge Components: A Systematic Method for Refining Instruction,_ SIGCSE '18, Baltimore ,MD. February, 2018.
+A. C. Bart, L. Gusukuma, D. Kafura, _Really Pushing My Buttons: Affordances in Block-based Languages (Position Paper)_, Blocks & Beyond 2018, Raleigh, North Carolina. October 2018.
 
-B. Chowdhury, A. C. Bart, D. Kafura,Analysis of Collaborative Learning in a Computational Thinking Class, SIGCSE '18, Baltimore, MD. February, 2018.
-
-  
-
-A. C. Bart, L. Gusukuma, D. Kafura, Really Pushing My Buttons: Affordances in Block-based Languages (Position Paper), Blocks & Beyond 2018, Raleigh, North Carolina. October 2018.
-
-  
-
-L. Gusukuma,A. C. Bart, D. Kafura,[Authoring Feedback for Novice Programmers in a Block-based Language](goog_1077080768)[(Position Paper)](https://sites.google.com/a/vt.edu/acbart-eportfolio/publications-and-posters/s03-gusukuma.pdf?attredirects=0&d=1), Blocks & Beyond 2018, Raleigh, North Carolina. October 2018.
-
-  
+L. Gusukuma,A. C. Bart, D. Kafura, _[Authoring Feedback for Novice Programmers in a Block-based Language](goog_1077080768)[(Position Paper)](https://sites.google.com/a/vt.edu/acbart-eportfolio/publications-and-posters/s03-gusukuma.pdf?attredirects=0&d=1)_, Blocks & Beyond 2018, Raleigh, North Carolina. October 2018.
 
 A. C. Bart, _[Motivating Introductory Students with Pedagogical Datasets](https://docs.google.com/a/vt.edu/viewer?a=v&pid=sites&srcid=dnQuZWR1fGFjYmFydC1lcG9ydGZvbGlvfGd4OjUwMjliNjBhMDg4M2YzYWQ)_, Dissertation. March, 2017. \[[Slides](https://docs.google.com/a/vt.edu/viewer?a=v&pid=sites&srcid=dnQuZWR1fGFjYmFydC1lcG9ydGZvbGlvfGd4OjczN2IxZGZjNGI5ODcyNWI)\]
 
