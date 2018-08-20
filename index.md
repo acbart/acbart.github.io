@@ -7,9 +7,7 @@ Check out some of my work:
 * [Computational Thinking course (CT@VT)](http://think.cs.vt.edu/ct/)
 * [AnimalScienceCraft](#)
 
-I study introductory computing experiences, both in terms of student motivation and cognition. I spend a lot of my time teaching introductory Python and thinking about how we can improve students' notional machines.
-
-When I teach, I try to keep the following in mind:
+I study introductory computing experiences, both in terms of student motivation and cognition. When I teach, I try to keep the following in mind:
 * Have I provided a structure learning experience with clear expectations and instructions?
 * Have I provided opportunities for participation with feedback?
 * Am I supporting students internal agency, sense of usefulness, self-efficacy, personal interests, and perception of my caring?
@@ -19,7 +17,7 @@ When I teach, I try to keep the following in mind:
 
 My primary research interest is Digital Education, which can be broadly divided into two facets:
 
-*Computer Science Education* - The study and practice of teaching people how to become better Computer Scientists. This includes:
+**Computer Science Education** - The study and practice of teaching people how to become better Computer Scientists. This includes:
 
 * Measurably improving student performance with regards to concrete learning objectives
 * Generating and improving immediate feedback to support learners
@@ -28,7 +26,7 @@ My primary research interest is Digital Education, which can be broadly divided 
 * Increasing diversity and student perspectives, especially with regards to women in computing
 * Increasing student motivation to learn and use CS concepts/tools
 
-*Learning Sciences* - The study and application of how people learn. This includes:
+**Learning Sciences** - The study and application of how people learn. This includes:
 
 * Investigating how people learn and the best ways to teach (especially Instructional Design)
 * Novel learning software to teach myriad subjects and skills, especially 21st century skills like Computational Thinking
