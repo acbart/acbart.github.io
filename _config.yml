@@ -11,3 +11,8 @@ title:               Acbart Site
 tagline:             Basic site from Github pages
 url:                 http://acbart.github.io/
 baseurl:             /
+
+description: Github Pages for acbart
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
