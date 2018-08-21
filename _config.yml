@@ -11,6 +11,7 @@ title:               Acbart ePortfolio
 tagline:             Computing Education
 url:                 http://acbart.github.io/
 baseurl:             /
+logo:                images/vtCSDepartmentHeadshot-smaller.png
 
 description: Github Pages for acbart
 google_analytics: 
