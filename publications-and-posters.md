@@ -8,7 +8,7 @@ B. Chowdhury, A. C. Bart, D. Kafura, _Analysis of Collaborative Learning in a Co
 
 A. C. Bart, L. Gusukuma, D. Kafura, _Really Pushing My Buttons: Affordances in Block-based Languages (Position Paper)_, Blocks & Beyond 2018, Raleigh, North Carolina. October 2018.
 
-L. Gusukuma,A. C. Bart, D. Kafura, _[Authoring Feedback for Novice Programmers in a Block-based Language](goog_1077080768)[(Position Paper)](papers/s03-gusukuma.pdf)_, Blocks & Beyond 2018, Raleigh, North Carolina. October 2018.
+L. Gusukuma,A. C. Bart, D. Kafura, _[Authoring Feedback for Novice Programmers in a Block-based Language (Position Paper)](papers/s03-gusukuma.pdf)_, Blocks & Beyond 2018, Raleigh, North Carolina. October 2018.
 
 A. C. Bart, _[Motivating Introductory Students with Pedagogical Datasets](papers/Bart_AC_D_2017.pdf)_, Dissertation. March, 2017. \[[Slides](papers/dissertation-acbart-slides.pdf)\]
 
