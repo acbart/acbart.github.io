@@ -4,6 +4,7 @@
         <span class="{% if page.url == "/" %}active{% endif %}">
             <a href="{{ site.baseurl }}/">{{ site.title }}</a>
         </span>
+        <br>
     {% endif %}
 
     {% assign entries = site.pages | sort: "path" %}
@@ -13,10 +14,11 @@
         {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 
         {% if current == include.context %}
-            | <span class="{% if page.url contains entry.url %}active{% endif %}">
+            <span class="{% if page.url contains entry.url %}active{% endif %}">
                 <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
                 {% include navigation.html context=entry.url %}
             </span>
+            <br>
         {% endif %}
 
     {% endfor %}
