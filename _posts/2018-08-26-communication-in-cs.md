@@ -1,4 +1,7 @@
-# How do we Teach Communication in CS?
+---
+layout: post
+title: How do we Teach Communication in CS?
+---
 
 *posted Jun 20, 2013, 2:41 PM*
 
