@@ -1,4 +1,4 @@
-My name is Austin Cory Bart, and I'm an Assistant Professor at the University of Delaware. In spring 2017, I received my PhD in Computer Science Applications with a Learning Sciences certification from Virginia Tech. I graduated with an Honors Degree with Distinction in Computer Science from the University of Delaware in 2012.
+My name is Austin Cory Bart, and I'm an Assistant Professor at the University of Delaware. In spring 2017, I received my PhD in Computer Science with a Learning Sciences certification from Virginia Tech.
 
 Check out some of my work:
 

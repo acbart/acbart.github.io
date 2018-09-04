@@ -23,7 +23,7 @@
     - Awarded by National Science Foundation, second year of my PhD
     - A $96,000 stipend given over three years to pursue graduate-level research, along with XSEDE supercomputer access and an opportunity to pursue International Research. Given to less than 2,000 of the 13,000 submitted applications from PhDs across the entire US. More information available at http://www.nsfgrfp.org/.
     
-## 2013
+## 2013 (Graduate)
 
 * NSF Graduate Research Fellowship Program Honorable Mention
     - Awarded by National Science Foundation, first year of my PhD
@@ -48,7 +48,7 @@
     - Awarded by the Computer Science Department my Sophomore year
     - This monetary award is given to a student who showed exemplary academic performance in their freshman year. The winner of the award is chosen by the department faculty. Because of equally excellent achievements, I shared the award with my fellow computer science major Diane Kiser.
 
-## 2008
+## 2008 (Undergraduate)
 
 * Eugene Dupont Memorial Scholarship
     - Awarded by the University of Delaware upon entering
