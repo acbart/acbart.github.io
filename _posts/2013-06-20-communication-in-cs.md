@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How do we Teach Communication in CS?
+tags: [opinion, teaching]
 ---
 
 *posted Jun 20, 2013, 2:41 PM*
