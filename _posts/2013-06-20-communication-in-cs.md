@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How do we Teach Communication in CS?
+author: Austin Cory Bart
 tags: [opinion, teaching]
 ---
 
