@@ -2,7 +2,7 @@
 layout: post
 title: What Academia Needs to Do About Writing
 author: Austin Cory Bart
-tags: [opinion, teaching]
+tags: [opinion, writing]
 ---
 
 **TL;DR: We need more formatting and simpler papers in academia.**
