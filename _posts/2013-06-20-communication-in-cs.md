@@ -5,8 +5,6 @@ author: Austin Cory Bart
 tags: [opinion, teaching]
 ---
 
-*posted Jun 20, 2013, 2:41 PM*
-
 I just read an interesting post about [skills that colleges don't teach](http://simpledeveloper.com/important-skills-colleges-never-teach-programmers/). I have a lot of opinions on the skills they present, and I don't necessarily agree with the author. But I found a more interesting list in the comments. 
 
 *I'd add some skills to the list that are far, far more important than the ones you list: **communication and people skills** *
