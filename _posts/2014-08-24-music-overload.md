@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MUSIC Overload: Too Much Motivation?"
+title: MUSIC Overload - Too Much Motivation?
 author: Austin Cory Bart
 tags: [opinion, writing]
 ---
