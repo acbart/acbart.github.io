@@ -50,130 +50,130 @@ Before beginning work on educational games, it is critical to know what your lea
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
 <tbody>
 <tr style="background-color:#000;color:#fff">
-<td style="width:256px;height:14px">&nbsp;<b>Objective</b></td>
-<td style="width:78px;height:14px"><b>Standards&nbsp;</b></td>
-<td style="width:366px;height:14px"><b>Summary&nbsp;</b></td>
-<td style="width:153px;height:14px"><b>&nbsp;Status</b></td>
+<td style=""><b>Objective</b></td>
+<td style=""><b>Standards</b></td>
+<td style=""><b>Summary</b></td>
+<td style=""><b>Status</b></td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Animal Origins</td>
-<td style="width:78px;height:14px">&nbsp;AS.01.01&nbsp;</td>
-<td style="width:366px;height:14px">&nbsp;Where animals come from</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+<td style="">Animal Origins</td>
+<td style="">AS.01.01</td>
+<td style="">Where animals come from</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#dfd">
-<td style="width:256px;height:14px">&nbsp;Animal Distribution</td>
-<td style="width:78px;height:14px">&nbsp;AS.01.01</td>
-<td style="width:366px;height:14px">&nbsp;How animals are distributed across the world</td>
-<td style="width:153px;height:14px">&nbsp;Built-in</td>
+<td style="">Animal Distribution</td>
+<td style="">AS.01.01</td>
+<td style="">How animals are distributed across the world</td>
+<td style="">Built-in</td>
 </tr>
 <tr style="background-color:#ddf">
-<td style="width:256px;height:14px">&nbsp;Domestication</td>
-<td style="width:78px;height:14px">&nbsp;AS.01.01</td>
-<td style="width:366px;height:14px">&nbsp;How animals are tamed</td>
-<td style="width:153px;height:14px">&nbsp;Planned</td>
+<td style="">Domestication</td>
+<td style="">AS.01.01</td>
+<td style="">How animals are tamed</td>
+<td style="">Planned</td>
 </tr>
 <tr style="background-color:#dfd">
-<td style="width:256px;height:14px">&nbsp;Classification</td>
-<td style="width:78px;height:14px">&nbsp;AS.02.01</td>
-<td style="width:366px;height:14px">&nbsp;Logically organize animals by use and characteristics</td>
-<td style="width:153px;height:14px">&nbsp;Implemented</td>
+<td style="">Classification</td>
+<td style="">AS.02.01</td>
+<td style="">Logically organize animals by use and characteristics</td>
+<td style="">Implemented</td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Anatomy</td>
-<td style="width:78px;height:14px">&nbsp;AS.02.02</td>
-<td style="width:366px;height:14px">&nbsp;Identify different parts of an animal's anatomy</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include&nbsp;</td>
+<td style="">Anatomy</td>
+<td style="">AS.02.02</td>
+<td style="">Identify different parts of an animal's anatomy</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Biology</td>
-<td style="width:78px;height:14px">&nbsp;AS.02.02</td>
-<td style="width:366px;height:14px">&nbsp;Explain the internals of animals</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include&nbsp;</td>
+<td style="">Biology</td>
+<td style="">AS.02.02</td>
+<td style="">Explain the internals of animals</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#dfd">
-<td style="width:256px;height:14px">&nbsp;Inheritance</td>
-<td style="width:78px;height:14px">&nbsp;AS.02.03</td>
-<td style="width:366px;height:14px">&nbsp;Understanding how traits are inherited</td>
-<td style="width:153px;height:14px">&nbsp;Implemented&nbsp;</td>
+<td style="">Inheritance</td>
+<td style="">AS.02.03</td>
+<td style="">Understanding how traits are inherited</td>
+<td style="">Implemented</td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Healthcare</td>
-<td style="width:78px;height:14px">&nbsp;AS.03.01</td>
-<td style="width:366px;height:14px">&nbsp;Identify and treat sick animals</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+<td style="">Healthcare</td>
+<td style="">AS.03.01</td>
+<td style="">Identify and treat sick animals</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Biosecurity</td>
-<td style="width:78px;height:14px">&nbsp;AS.03.02</td>
-<td style="width:366px;height:14px">&nbsp;Ensure that contagions don't travel between farms</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include&nbsp;</td>
+<td style="">Biosecurity</td>
+<td style="">AS.03.02</td>
+<td style="">Ensure that contagions don't travel between farms</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Feeding</td>
-<td style="width:78px;height:14px">&nbsp;AS.04.01</td>
-<td style="width:366px;height:14px">&nbsp;Determine optimal feeding patterns</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+<td style="">Feeding</td>
+<td style="">AS.04.01</td>
+<td style="">Determine optimal feeding patterns</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#ddf">
-<td style="width:256px;height:14px"><span style="background-color:rgb(244,204,204)">&nbsp;Growth Hormones</span></td>
-<td style="width:78px;height:14px"><span style="background-color:rgb(244,204,204)">&nbsp;AS.04.02</span></td>
-<td style="width:366px;height:14px"><span style="background-color:rgb(244,204,204)">&nbsp;Understand the benefit and safety of Growth Hormones</span></td>
-<td style="width:153px;height:14px"><span style="background-color:rgb(244,204,204)">&nbsp;No plans to include</span></td>
+<td style=""><span style="">Growth Hormones</span></td>
+<td style=""><span style="">AS.04.02</span></td>
+<td style=""><span style="">Understand the benefit and safety of Growth Hormones</span></td>
+<td style=""><span style="">No plans to include</span></td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Sexual Organs</td>
-<td style="width:78px;height:14px">&nbsp;AS.05.01</td>
-<td style="width:366px;height:14px">&nbsp;Understand how sexual organs in animals work</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+<td style="">Sexual Organs</td>
+<td style="">AS.05.01</td>
+<td style="">Understand how sexual organs in animals work</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#dfd">
-<td style="width:256px;height:14px">&nbsp;Reproduction</td>
-<td style="width:78px;height:14px">&nbsp;AS.05.02</td>
-<td style="width:366px;height:14px">&nbsp;Understand the process of animal reproduction</td>
-<td style="width:153px;height:14px">&nbsp;Implemented&nbsp;</td>
+<td style="">Reproduction</td>
+<td style="">AS.05.02</td>
+<td style="">Understand the process of animal reproduction</td>
+<td style="">Implemented</td>
 </tr>
 <tr style="background-color:#dfd">
-<td style="width:256px;height:14px">&nbsp;Trait Breeding</td>
-<td style="width:78px;height:14px">&nbsp;AS.05.03</td>
-<td style="width:366px;height:14px">&nbsp;Choose which animals to breed</td>
-<td style="width:153px;height:14px">&nbsp;Implemented&nbsp;</td>
+<td style="">Trait Breeding</td>
+<td style="">AS.05.03</td>
+<td style="">Choose which animals to breed</td>
+<td style="">Implemented</td>
 </tr>
 <tr style="background-color:#ddf">
-<td style="width:256px;height:14px">&nbsp;Animal Handling</td>
-<td style="width:78px;height:14px">&nbsp;AS.06.01</td>
-<td style="width:366px;height:14px">&nbsp;Approach, move, and care for animals safely&nbsp;</td>
-<td style="width:153px;height:14px">&nbsp;Planned&nbsp;</td>
+<td style="">Animal Handling</td>
+<td style="">AS.06.01</td>
+<td style="">Approach, move, and care for animals safely</td>
+<td style="">Planned</td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:16px">&nbsp;Animal Product Safety</td>
-<td style="width:78px;height:16px">&nbsp;AS.06.02</td>
-<td style="width:366px;height:16px">&nbsp;Ensure that the products of animals are safe to consume/use</td>
-<td style="width:153px;height:16px">&nbsp;No plans to include</td>
+<td style="">Animal Product Safety</td>
+<td style="">AS.06.02</td>
+<td style="">Ensure that the products of animals are safe to consume/use</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Housing Safety</td>
-<td style="width:78px;height:14px">&nbsp;AS.07.01</td>
-<td style="width:366px;height:14px">&nbsp;Design structures for the housing of animals</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include&nbsp;</td>
+<td style="">Housing Safety</td>
+<td style="">AS.07.01</td>
+<td style="">Design structures for the housing of animals</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Housing Standards</td>
-<td style="width:78px;height:14px">&nbsp;AS.07.02</td>
-<td style="width:366px;height:14px">&nbsp;Comprehend government standards for animal housing</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+<td style="">Housing Standards</td>
+<td style="">AS.07.02</td>
+<td style="">Comprehend government standards for animal housing</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#fdd">
-<td style="width:256px;height:14px">&nbsp;Environmental Impact</td>
-<td style="width:78px;height:14px">&nbsp;AS.08.01</td>
-<td style="width:366px;height:14px">&nbsp;Understand the impact that a farm has on the environment</td>
-<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+<td style="">Environmental Impact</td>
+<td style="">AS.08.01</td>
+<td style="">Understand the impact that a farm has on the environment</td>
+<td style="">No plans to include</td>
 </tr>
 <tr style="background-color:#ddf">
-<td style="width:256px;height:14px">&nbsp;Environmental Factors</td>
-<td style="width:78px;height:14px">&nbsp;AS.08.02</td>
-<td style="width:366px;height:14px">&nbsp;Understand how the location of a farm impacts the animals</td>
-<td style="width:153px;height:14px">&nbsp;Planned</td>
+<td style="">Environmental Factors</td>
+<td style="">AS.08.02</td>
+<td style="">Understand how the location of a farm impacts the animals</td>
+<td style="">Planned</td>
 </tr>
 </tbody>
 </table>
