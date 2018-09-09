@@ -63,10 +63,10 @@ We were allowed to organize break-out sessions, so I organized one: "What can wo
 *   Don't have a formal membership, keep it loose; membership is too much of a commitment
 *   Good event ideas:
 
-*   Technical interviews
-*   Sessions on tools (command lines, web design, Git/SVN, etc.)
-*   Watching computing movies (She++, Turing movie, Social Network)
-*   Mixers
+    *   Technical interviews
+    *   Sessions on tools (command lines, web design, Git/SVN, etc.)
+    *   Watching computing movies (She++, Turing movie, Social Network)
+    *   Mixers
 
 *   Always put "Free Food" in the subject line
 

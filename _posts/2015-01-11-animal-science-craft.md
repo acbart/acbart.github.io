@@ -5,7 +5,7 @@ author: Austin Cory Bart and Eleonor Cayford
 tags: [games, projects, animalsciencecraft]
 ---
 
-[!Ellie and Cory with Minecraft toys](images/posts-asc1.jpg)
+![Ellie and Cory with Minecraft toys](images/posts-asc1.jpg)
 
 By Austin Cory Bart and Eleonor Cayford
 
@@ -47,7 +47,136 @@ This work began under [Dr. Michael Evans](http://ced.ncsu.edu/user/michael_evans
 
 Before beginning work on educational games, it is critical to know what your learning objectives are. We used standards developed by the National Council for Agricultural Education National Council for Agricultural Education, designed for middle- and high- school aged students\[9\]. This list is actually fairly massive, and covers a lot of agricultural material outside of Animal Science. We only concerned ourselves with the subset of Animal Science objectives that we could transform into meaningful gameplay elements, to avoid cognitive overload. The relevant list of objectives are summarized in the table below:
 
-%%% TODO %%%  
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
+<tbody>
+<tr style="background-color:#000;color:#fff">
+<td style="width:256px;height:14px">&nbsp;<b>Objective</b></td>
+<td style="width:78px;height:14px"><b>Standards&nbsp;</b></td>
+<td style="width:366px;height:14px"><b>Summary&nbsp;</b></td>
+<td style="width:153px;height:14px"><b>&nbsp;Status</b></td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Animal Origins</td>
+<td style="width:78px;height:14px">&nbsp;AS.01.01&nbsp;</td>
+<td style="width:366px;height:14px">&nbsp;Where animals come from</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+</tr>
+<tr style="background-color:#dfd">
+<td style="width:256px;height:14px">&nbsp;Animal Distribution</td>
+<td style="width:78px;height:14px">&nbsp;AS.01.01</td>
+<td style="width:366px;height:14px">&nbsp;How animals are distributed across the world</td>
+<td style="width:153px;height:14px">&nbsp;Built-in</td>
+</tr>
+<tr style="background-color:#ddf">
+<td style="width:256px;height:14px">&nbsp;Domestication</td>
+<td style="width:78px;height:14px">&nbsp;AS.01.01</td>
+<td style="width:366px;height:14px">&nbsp;How animals are tamed</td>
+<td style="width:153px;height:14px">&nbsp;Planned</td>
+</tr>
+<tr style="background-color:#dfd">
+<td style="width:256px;height:14px">&nbsp;Classification</td>
+<td style="width:78px;height:14px">&nbsp;AS.02.01</td>
+<td style="width:366px;height:14px">&nbsp;Logically organize animals by use and characteristics</td>
+<td style="width:153px;height:14px">&nbsp;Implemented</td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Anatomy</td>
+<td style="width:78px;height:14px">&nbsp;AS.02.02</td>
+<td style="width:366px;height:14px">&nbsp;Identify different parts of an animal's anatomy</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include&nbsp;</td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Biology</td>
+<td style="width:78px;height:14px">&nbsp;AS.02.02</td>
+<td style="width:366px;height:14px">&nbsp;Explain the internals of animals</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include&nbsp;</td>
+</tr>
+<tr style="background-color:#dfd">
+<td style="width:256px;height:14px">&nbsp;Inheritance</td>
+<td style="width:78px;height:14px">&nbsp;AS.02.03</td>
+<td style="width:366px;height:14px">&nbsp;Understanding how traits are inherited</td>
+<td style="width:153px;height:14px">&nbsp;Implemented&nbsp;</td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Healthcare</td>
+<td style="width:78px;height:14px">&nbsp;AS.03.01</td>
+<td style="width:366px;height:14px">&nbsp;Identify and treat sick animals</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Biosecurity</td>
+<td style="width:78px;height:14px">&nbsp;AS.03.02</td>
+<td style="width:366px;height:14px">&nbsp;Ensure that contagions don't travel between farms</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include&nbsp;</td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Feeding</td>
+<td style="width:78px;height:14px">&nbsp;AS.04.01</td>
+<td style="width:366px;height:14px">&nbsp;Determine optimal feeding patterns</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+</tr>
+<tr style="background-color:#ddf">
+<td style="width:256px;height:14px"><span style="background-color:rgb(244,204,204)">&nbsp;Growth Hormones</span></td>
+<td style="width:78px;height:14px"><span style="background-color:rgb(244,204,204)">&nbsp;AS.04.02</span></td>
+<td style="width:366px;height:14px"><span style="background-color:rgb(244,204,204)">&nbsp;Understand the benefit and safety of Growth Hormones</span></td>
+<td style="width:153px;height:14px"><span style="background-color:rgb(244,204,204)">&nbsp;No plans to include</span></td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Sexual Organs</td>
+<td style="width:78px;height:14px">&nbsp;AS.05.01</td>
+<td style="width:366px;height:14px">&nbsp;Understand how sexual organs in animals work</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+</tr>
+<tr style="background-color:#dfd">
+<td style="width:256px;height:14px">&nbsp;Reproduction</td>
+<td style="width:78px;height:14px">&nbsp;AS.05.02</td>
+<td style="width:366px;height:14px">&nbsp;Understand the process of animal reproduction</td>
+<td style="width:153px;height:14px">&nbsp;Implemented&nbsp;</td>
+</tr>
+<tr style="background-color:#dfd">
+<td style="width:256px;height:14px">&nbsp;Trait Breeding</td>
+<td style="width:78px;height:14px">&nbsp;AS.05.03</td>
+<td style="width:366px;height:14px">&nbsp;Choose which animals to breed</td>
+<td style="width:153px;height:14px">&nbsp;Implemented&nbsp;</td>
+</tr>
+<tr style="background-color:#ddf">
+<td style="width:256px;height:14px">&nbsp;Animal Handling</td>
+<td style="width:78px;height:14px">&nbsp;AS.06.01</td>
+<td style="width:366px;height:14px">&nbsp;Approach, move, and care for animals safely&nbsp;</td>
+<td style="width:153px;height:14px">&nbsp;Planned&nbsp;</td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:16px">&nbsp;Animal Product Safety</td>
+<td style="width:78px;height:16px">&nbsp;AS.06.02</td>
+<td style="width:366px;height:16px">&nbsp;Ensure that the products of animals are safe to consume/use</td>
+<td style="width:153px;height:16px">&nbsp;No plans to include</td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Housing Safety</td>
+<td style="width:78px;height:14px">&nbsp;AS.07.01</td>
+<td style="width:366px;height:14px">&nbsp;Design structures for the housing of animals</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include&nbsp;</td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Housing Standards</td>
+<td style="width:78px;height:14px">&nbsp;AS.07.02</td>
+<td style="width:366px;height:14px">&nbsp;Comprehend government standards for animal housing</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+</tr>
+<tr style="background-color:#fdd">
+<td style="width:256px;height:14px">&nbsp;Environmental Impact</td>
+<td style="width:78px;height:14px">&nbsp;AS.08.01</td>
+<td style="width:366px;height:14px">&nbsp;Understand the impact that a farm has on the environment</td>
+<td style="width:153px;height:14px">&nbsp;No plans to include</td>
+</tr>
+<tr style="background-color:#ddf">
+<td style="width:256px;height:14px">&nbsp;Environmental Factors</td>
+<td style="width:78px;height:14px">&nbsp;AS.08.02</td>
+<td style="width:366px;height:14px">&nbsp;Understand how the location of a farm impacts the animals</td>
+<td style="width:153px;height:14px">&nbsp;Planned</td>
+</tr>
+</tbody>
+</table>
 
 ### Mechanics
 
@@ -57,18 +186,13 @@ In the following section, we'll describe the mechanics we've introduced. There a
 
 ![Gender in Pigs](images/posts-asc-gendered_pigs.png)
 
-Gender  
+**Gender**
 _Objectives: Reproduction, Classification_  
 Animals now have Gender, which results in visible differences in the animal (in the picture above, male pigs are darker than female pigs). In order to breed two pigs, they must be different genders. Further, gender affects the utility of the animal - male cows do not produce milk, for instance.
 
-**
+![Estrous in Pigs](images/posts-asc-estrous.png)
 
-[!Estrous in Pigs](images/posts-asc-estrous.png)
-
-  
-**
-
-Reproduction
+**Reproduction**
 
 _Objectives: Reproduction_
 
@@ -104,14 +228,8 @@ _Objectives: __Animal Handling_
 
 Animals now eat to survive. If their hunger drops to zero, then they die. The amount of hunger they recover from their food source is determined by their Feed Efficiency stat.
 
-  
 
-**
-
-[!Bacon from Pigs](images/posts-asc-bacon.png)
-
-  
-**
+![Bacon from Pigs](images/posts-asc-bacon.png)
 
 **Animal Products**
 
@@ -136,13 +254,9 @@ Some animals have by-products that do not require killing the animal. These drop
 *   Feathers are dropped passively, similar to eggs.
 *   Wool is much the same as it was before
 
-**
-
-[!Varying Sizes in Pigs](images/posts-asc-sizes.png)
+![Varying Sizes in Pigs](images/posts-asc-sizes.png)
 
   
-**
-
 **Size and Age**
 
 _Objectives: None_
@@ -212,7 +326,7 @@ All work for this project is freely available on [the LearnCraft github](https:/
 
 ### Conclusion
 
-[!LearnCraft is an Educational Minecraft Textbook](images/posts-asc-learncraft.png)
+![LearnCraft is an Educational Minecraft Textbook](images/posts-asc-learncraft.png)
 
 Although a lot of practical and interesting Animal Science knowledge is situated in our Minecraft mod, something more is needed to solidify player's learning. Our AnimalScienceCraft mod is part of a larger project named "LearnCraft", and at the heart of that project is a powerful reference manual for Minecraft embedded within the game. This manual is tied into the event system of Minecraft so that players can get guided feedback on how to play the game in a just-in-time style. This system will get its own proper blog post sometime this semester, as we prepare it for beta release.
 
@@ -244,4 +358,4 @@ Our next big step is to get funding for this project, possibly through the ICAT 
 
   
 
-[!We stacked the toys on Klaus](images/posts-asc-stacked.jpg)
+![We stacked the toys on Klaus](images/posts-asc-stacked.jpg)
