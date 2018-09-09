@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eating the Apple Core: Question Convention
+title: Eating the Apple Core - Question Convention
 author: Austin Cory Bart
 tags: [opinion, writing]
 ---
