@@ -40,7 +40,14 @@ Does this mean that you can't have too much Usefulness, but everything else is a
 
 **Update (8/31/2015):** I've still been thinking about this, and I've tried to label the feelings of having "too much" and "too little" motivation can mean, with regards to the MUSIC model:
 
-
+|||||
+|--- |--- |--- |--- |
+||Too little|Just right|Too much|
+|eMpowerment|Restricted|Empowered|Adrift|
+|Usefulness|Wasting time|Practical|Pressured|
+|Success|Discouraged|In Flow|Ennui|
+|Interest|Bored|Interested|Distracted/Cloyed|
+|Caring|Deserted|Cared for|Stalked|
 
 
 Thoughts I have, looking at this table:
