@@ -12,14 +12,14 @@ _The 7th Annual Conference on Higher Education Pedagogy is focused on higher edu
 Although there was a lot of great stuff there, one panel stood out:
 
 **"Integrating Self-Regulated Learning Activities into Your Course or Curriculum"**
+
 Dr. Rachel McCord
+
 _Self-regulated learning is an important skill set that allows learners to regulate their cognitive, behavioral, and motivational processes in their learning environments. While these skills are important, many students do not possess these skills when entering an undergraduate institution because they have not had the opportunity or have not needed the skills in previous learning environments. This session will demonstrate a number of techniques that can be integrated in existing courses to help develop and support self-regulated learning skills in undergraduate students._
 
-[Link to talk details on Cider](http://www.cideronline.org/conference/presentation1.cfm?pid=2138)
+![](https://sites.google.com/a/vt.edu/acbart-eportfolio/_/rsrc/1472774541160/blog/presentationonpracticalself-regulatedlearningbydrmccordatchep15/11decerfZimm400.gif)
 
-  
-
-![](https://sites.google.com/a/vt.edu/acbart-eportfolio/_/rsrc/1472774541160/blog/presentationonpracticalself-regulatedlearningbydrmccordatchep15/11decerfZimm400.gif)In Computer Science, we have a big problem with self-regulated learning. I've seen so many students confident that they can do the entire project at the last minute, and then have to email the instructor 10 minutes before it's due with basic questions. In theory, students should come to college with these skills - in practice, this is where they learn them.
+In Computer Science, we have a big problem with self-regulated learning. I've seen so many students confident that they can do the entire project at the last minute, and then have to email the instructor 10 minutes before it's due with basic questions. In theory, students should come to college with these skills - in practice, this is where they learn them.
 
   
 
