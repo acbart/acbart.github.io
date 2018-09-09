@@ -7,14 +7,12 @@ tags: [conferences, talks, self-regulation, learning]
 
 On Wednesday 2/4/15, I attended Chep'15 here at VT.
 
-`_The 7th Annual Conference on Higher Education Pedagogy is focused on higher education teaching excellence and the scholarship of teaching and learning._  -CIDER website`
+_The 7th Annual Conference on Higher Education Pedagogy is focused on higher education teaching excellence and the scholarship of teaching and learning._  -CIDER website
 
 Although there was a lot of great stuff there, one panel stood out:
 
 **"Integrating Self-Regulated Learning Activities into Your Course or Curriculum"**
-
 Dr. Rachel McCord
-
 _Self-regulated learning is an important skill set that allows learners to regulate their cognitive, behavioral, and motivational processes in their learning environments. While these skills are important, many students do not possess these skills when entering an undergraduate institution because they have not had the opportunity or have not needed the skills in previous learning environments. This session will demonstrate a number of techniques that can be integrated in existing courses to help develop and support self-regulated learning skills in undergraduate students._
 
 [Link to talk details on Cider](http://www.cideronline.org/conference/presentation1.cfm?pid=2138)
