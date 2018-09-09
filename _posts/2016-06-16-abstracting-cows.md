@@ -48,7 +48,7 @@ We can create a variable that represents our imaginary average cow.
 
   
 
-We cannot see the value of the "average\_cow" from this perspective, although we could print out its value. It is a more abstract variable, dependent on the order of execution and pre-existing variables.
+We cannot see the value of the `average_cow` from this perspective, although we could print out its value. It is a more abstract variable, dependent on the order of execution and pre-existing variables.
 
   
 
