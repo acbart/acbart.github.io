@@ -5,6 +5,7 @@ author: Austin Cory Bart
 tags: [opinion, writing]
 ---
 
+
 [![How much is too much?](http://www.learnlanglab.com/anima/kotikscience_v1.nsf/FilesImages/773466e82ec2f43a882575d300532b86/$FILE/psy_motivation_effect.gif)](http://www.learnlanglab.com/anima/kotikscience_v1.nsf/FilesImages/773466e82ec2f43a882575d300532b86/$FILE/psy_motivation_effect.gif)
 
   
@@ -26,9 +27,9 @@ Here's a question: **from a purely motivational perspective, can you have too mu
   
 
 *   **eMpowerment**: Some research indicates that when people are given too many options, they are overwhelmed - they're actually happier when they have fewer. This phenomena of "[Overchoice](http://en.wikipedia.org/wiki/Overchoice)" suggests that giving 1000 different potential projects to students might not work out great.
-*   **Success**: A "[Flow](http://en.wikipedia.org/wiki/Flow_(psychology)) state" is achieved when someone is fully immersed in an experience (e.g., musicians rocking out, video game players fighting a final boss), and its an ideal for most designed experiences. Setting up a scenario for Flow requires success, but also challenge. If students are too successful too often, there's no sense of achievement, and their victories will seem hollow and dissatisfying. 
+*   **Success**: A "[Flow](http://en.wikipedia.org/wiki/Flow_(psychology))state" is achieved when someone is fully immersed in an experience (e.g., musicians rocking out, video game players fighting a final boss), and its an ideal for most designed experiences. Setting up a scenario for Flow requires success, but also challenge. If students are too successful too often, there's no sense of achievement, and their victories will seem hollow and dissatisfying.
 *   **Interest**: "[Seductive Details](http://visuallearningresearch.wiki.educ.msu.edu/file/view/Harp+&+Mayer+(1998).pdf)" are interesting but distracting additions to a lecture. It's unfortunately not hard to add such details if you are over-focused on making things interesting and not educational.
-*   **Caring**: Establishing connections with people is a tricky thing - you can't come on too strong or you'll make people uncomfortable. I'm not aware of a good citation here for people, so take it with a grain of salt. However, Ellie has given me a good example from Animal Science. When raising animals, you should occasionally ignore them - always paying attention makes it less valuable to them, but always ignoring them never establishes an emotional connection. In my own life, I've had teachers "come on too strong", and make me want to disengage from them. 
+*   **Caring**: Establishing connections with people is a tricky thing - you can't come on too strong or you'll make people uncomfortable. I'm not aware of a good citation here for people, so take it with a grain of salt. However, Ellie has given me a good example from Animal Science. When raising animals, you should occasionally ignore them - always paying attention makes it less valuable to them, but always ignoring them never establishes an emotional connection. In my own life, I've had teachers "come on too strong", and make me want to disengage from them.
 
 All of these aspects require a balance. However, I've left "**Usefulness**" off this list, because unlike the others, it seems to me like you can't have enough of it. I can't imagine someone would become less motivated BECAUSE they felt the lesson was too useful to them.
 
