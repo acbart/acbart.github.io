@@ -7,26 +7,17 @@ tags: [conferences, talks, self-regulation, learning]
 
 On Wednesday 2/4/15, I attended Chep'15 here at VT.
 
-  
-
-`_The 7th Annual Conference on Higher Education Pedagogy is focused on higher education teaching excellence and the scholarship of teaching and learning._  
-- CIDER website`
-
-  
-
-  
+`_The 7th Annual Conference on Higher Education Pedagogy is focused on higher education teaching excellence and the scholarship of teaching and learning._  -CIDER website`
 
 Although there was a lot of great stuff there, one panel stood out:
 
-  
+**"Integrating Self-Regulated Learning Activities into Your Course or Curriculum"**
 
-`**"Integrating Self-Regulated Learning Activities into Your Course or Curriculum"**`
+Dr. Rachel McCord
 
-`Dr. Rachel McCord`
+_Self-regulated learning is an important skill set that allows learners to regulate their cognitive, behavioral, and motivational processes in their learning environments. While these skills are important, many students do not possess these skills when entering an undergraduate institution because they have not had the opportunity or have not needed the skills in previous learning environments. This session will demonstrate a number of techniques that can be integrated in existing courses to help develop and support self-regulated learning skills in undergraduate students._
 
-`_Self-regulated learning is an important skill set that allows learners to regulate their cognitive, behavioral, and motivational processes in their learning environments. While these skills are important, many students do not possess these skills when entering an undergraduate institution because they have not had the opportunity or have not needed the skills in previous learning environments. This session will demonstrate a number of techniques that can be integrated in existing courses to help develop and support self-regulated learning skills in undergraduate students._`
-
-[`Link to talk details on Cider`](http://www.cideronline.org/conference/presentation1.cfm?pid=2138)
+[Link to talk details on Cider](http://www.cideronline.org/conference/presentation1.cfm?pid=2138)
 
   
 
@@ -48,7 +39,7 @@ The slides of the talk are [here](http://www.cideronline.org/confPresentations/f
 
 *   Before an assignment (possibly before they even leave the classroom or the lab), have them complete a plan for how they would tackle the assignment.
 
-*   This plan can even be overlaid on their own schedules - force them to identify a time when they can work on it
+    *   This plan can even be overlaid on their own schedules - force them to identify a time when they can work on it
 
 *   For each task, they should write estimates for how long they expect it to take.
 *   Instead of saying how long you (the instructor) thinks it will take, show them how long it took students from previous semesters to complete it.
@@ -57,33 +48,33 @@ The slides of the talk are [here](http://www.cideronline.org/confPresentations/f
 
 *   Use Zimmerman's model of Self-Regulated Learning to explicitly act out these three phases: Forethought, Performance, and Self-Reflection
 
-*   Forethought: Spend part of the work session identifying the problem, jotting down ideas, noting where difficulties are
-*   Performance: Spend part of the work session working on everything that a student can do individually
-*   Self-Reflection: Go to office hours and get help.
+    *   Forethought: Spend part of the work session identifying the problem, jotting down ideas, noting where difficulties are
+    *   Performance: Spend part of the work session working on everything that a student can do individually
+    *   Self-Reflection: Go to office hours and get help.
 
 *   Page 11 gives an example of this
 *   This assignment is required for all students - the rhetoric is that "no matter how good you are, you are still a novice until you graduate."
 
-*   But can be targeted at low-achievers
+    *   But can be targeted at low-achievers
 
 ### Student Generated Exam Questions
 
 *   Students are responsible for writing the kind of question they would expect on the exam
 *   You can do several different things with the final products:
 
-*   The best question is placed on the exam, so students have an incentive to generate a great question
-*   Let classmates/other cohorts complete them during a class activity
-*   Have the instructor or a TA complete the problems as best they can, while verbalizing their thought processes (_modelling_)
+    *   The best question is placed on the exam, so students have an incentive to generate a great question
+    *   Let classmates/other cohorts complete them during a class activity
+    *   Have the instructor or a TA complete the problems as best they can, while verbalizing their thought processes (_modelling_)
 
 ### Exam Wrapper
 
 *   This was actually my favorite idea!
 *   After an exam, rather than just re-answering questions, they have to fill out a table explaining why they got the question wrong
 
-*   Carelessness
-*   Unfamiliar material
-*   Misinterpreted question
-*   Did not complete
+    *   Carelessness
+    *   Unfamiliar material
+    *   Misinterpreted question
+    *   Did not complete
 
 *   They can get some percentage of points back by filling out the chart
 *   You can see an example on page 16
@@ -93,8 +84,8 @@ The slides of the talk are [here](http://www.cideronline.org/confPresentations/f
 *   Students write a letter to the next class, telling them what things they should know to succeed
 *   Take the best snippets of these to give to the next class
 
-*   Via the syllabus
-*   Or via a handout
+    *   Via the syllabus
+    *   Or via a handout
 
 *   It's a really good reflective activity for students too.
 
