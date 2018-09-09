@@ -64,23 +64,23 @@ We used built-in Python functions to quickly compute that average, but in the CT
 
 This code has 5 variables:
 
-1.  my\_cows
-2.  average\_cow
-3.  total\_weight
-4.  total\_cows
-5.  a\_cow
+1.  `my_cows`
+2.  `average_cow`
+3.  `total_weight`
+4.  `total_cows`
+5.  `a_cow`
 
   
 
-The variables `total\_weight` and "total\_cows" are similar to the "average\_cow" variable, but they are at a higher level of abstraction than "my\_cows" since they do not represent real physical entities.
+The variables `total_weight` and `total_cows` are similar to the `average_cow` variable, but they are at a higher level of abstraction than `my_cows` since they do not represent real physical entities.
 
-*   How did we know to create "total\_weight" and "total\_cows"?
+*   How did we know to create `total_weight` and `total_cows`?
 *   How did we know what to initialize them to?
 *   How did we know to place them inside the loop to manipulate them?
 
-And what about that "a\_cow" variable? It represents each cow, but only over the entire course of the loop. It is not a specific cow until a specific time. To me, this represents an even higher level of abstraction than the other variables.
+And what about that `a_cow` variable? It represents each cow, but only over the entire course of the loop. It is not a specific cow until a specific time. To me, this represents an even higher level of abstraction than the other variables.
 
-*   What is the relationship between "a\_cow" and "my\_cows"?
+*   What is the relationship between `a_cow` and `my_cows`?
 *   How do I mentally model this abstract cow?
 *   How do I keep track of the cow over "time", when "time" is not immediately present in the program as written?
 
