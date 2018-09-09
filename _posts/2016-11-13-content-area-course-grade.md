@@ -1,3 +1,10 @@
+---
+layout: post
+title: Content Area Grade vs. Course Component Grade
+author: Austin Cory Bart
+tags: [curriculum design, grades]
+---
+
 Something bothered me when designing our last syllabus. The final product looked something like this:
 
 |||
