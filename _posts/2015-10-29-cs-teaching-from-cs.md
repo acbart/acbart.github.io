@@ -25,7 +25,7 @@ Easily the best book (online or physical) that I've found to bring you up to spe
 LearningAndTeaching.info
 ------------------------
 
-Formerly http://www.learningandteaching.info/ (I have mirrored the content: [http://acbart.com/learningandteaching/LearningAndTeaching/www.learningandteaching.info/index.html](http://acbart.com/learningandteaching/LearningAndTeaching/www.learningandteaching.info/index.html))
+Formerly http://www.learningandteaching.info/ (I have now [mirrored the content](http://acbart.com/learningandteaching/LearningAndTeaching/www.learningandteaching.info/index.html))
 
 Hands down the best resource I've ever found for growing as a teacher/researcher/learner is this website. Unfortunately, it went down a year or two ago, for some reason. But you can still access it through the wayback machine!
 
