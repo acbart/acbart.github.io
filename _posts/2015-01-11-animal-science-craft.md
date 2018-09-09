@@ -17,19 +17,19 @@ This past year, Ellie and I have been collaborating on an educational Minecraft 
 
 ### Minecraft
 
-Minecraft is an exceptionally popular video game. Earlier this year, it became the best selling PC game of all time, beating out the Sims (despite being much younger) [\[1\]](https://minecraft.net/stats). The success of Minecraft lies partially in its novel core game mechanics; a fully interactive, infinitely generating, block based world [\[2\]](http://en.wikipedia.org/wiki/Minecraft). However, it has also developed perhaps the most sophisticated modding community in the history of gaming. Not only are the core game developers constantly engaging with players, but they are very permissive about people extending the game with new mechanics, blocks, and everything else under the sun [\[3\]](https://account.mojang.com/documents/minecraft_eula). 
+Minecraft is an exceptionally popular video game. Earlier this year, it became the best selling PC game of all time, beating out the Sims (despite being much younger) [\[1\]](https://minecraft.net/stats). The success of Minecraft lies partially in its novel core game mechanics; a fully interactive, infinitely generating, block based world [\[2\]](http://en.wikipedia.org/wiki/Minecraft). However, it has also developed perhaps the most sophisticated modding community in the history of gaming. Not only are the core game developers constantly engaging with players, but they are very permissive about people extending the game with new mechanics, blocks, and everything else under the sun [\[3\]](https://account.mojang.com/documents/minecraft_eula).
 
   
 
-One of the most interesting applications of Minecraft is to education, and there have been many interesting projects [\[8\]](http://dl.acm.org/citation.cfm?id=2207097) [\[4\]](http://www.ktoo.org/2014/04/24/minecraft-classroom-learning-looks-like-gaming/). For instance, several Computer Engineering classes have used the RedStone mechanic of vanilla  Minecraft as demonstrations or even for assignments in Digital Logic (building simple machines and even fully fledged CPUs) [\[5\]](http://i.imgur.com/CCQiVmj.jpg). Mods bring even more opportunities for education. The successful [Minecraft.edu](http://minecraftedu.com/) project support teachers with classroom management tools, lesson plans, and other useful utilities all baked into Minecraft [\[6\]](http://minecraftedu.com/about). Here at Virginia Tech, the [ICAT OperaCraft](http://www.icat.vt.edu/funding/operacraft) project enabled high schoolers to author, choreograph, and perform a digital opera [\[7\]](http://www.icat.vt.edu/funding/operacraft). And now Foster and Esper (the same amazing duo that made [CodeSpells](http://codespells.org/)) is working on a Blockly-based modding system for Minecraft ([LearnToMod](http://www.learntomod.com/)) to teach kids programming. There are many other projects, and the research applications are blossoming.
+One of the most interesting applications of Minecraft is to education, and there have been many interesting projects [\[8\]](http://dl.acm.org/citation.cfm?id=2207097)[\[4\]](http://www.ktoo.org/2014/04/24/minecraft-classroom-learning-looks-like-gaming/). For instance, several Computer Engineering classes have used the RedStone mechanic of vanilla Minecraft as demonstrations or even for assignments in Digital Logic (building simple machines and even fully fledged CPUs) [\[5\]](http://i.imgur.com/CCQiVmj.jpg). Mods bring even more opportunities for education. The successful [Minecraft.edu](http://minecraftedu.com/) project support teachers with classroom management tools, lesson plans, and other useful utilities all baked into Minecraft [\[6\]](http://minecraftedu.com/about). Here at Virginia Tech, the [ICAT OperaCraft](http://www.icat.vt.edu/funding/operacraft) project enabled high schoolers to author, choreograph, and perform a digital opera [\[7\]](http://www.icat.vt.edu/funding/operacraft). And now Foster and Esper (the same amazing duo that made [CodeSpells](http://codespells.org/)) is working on a Blockly-based modding system for Minecraft ([LearnToMod](http://www.learntomod.com/)) to teach kids programming. There are many other projects, and the research applications are blossoming.
 
 ### Educational Game Development
 
-It is exceptionally easy for people to misestimate the value of video games for education. On the one hand are the hopeful, who see software as the magic wand to fix education - automated assessment, just-in-time feedback, and rich motivating experiences. On the other hand are the bitter, who have seen games like Math Blaster and how little impact they really have on children's learning. Educational game development is difficult, requiring pedagogy, art, music, game mechanics and everything else to come together in a perfect mixture. Research is required to really know that any given educational game is successful. Still, the literature offers many starting points and lens to analyze games. For the Platipy project, I have previously written summaries of several research papers on [educational game design](http://platipy.readthedocs.org/en/latest/educgamedesign.html), and I'd like to suggest anyone interested in vanilla Minecraft for education read the [Charskey et al](http://platipy.readthedocs.org/en/latest/research/charsky2008.html) paper. 
+It is exceptionally easy for people to misestimate the value of video games for education. On the one hand are the hopeful, who see software as the magic wand to fix education - automated assessment, just-in-time feedback, and rich motivating experiences. On the other hand are the bitter, who have seen games like Math Blaster and how little impact they really have on children's learning. Educational game development is difficult, requiring pedagogy, art, music, game mechanics and everything else to come together in a perfect mixture. Research is required to really know that any given educational game is successful. Still, the literature offers many starting points and lens to analyze games. For the Platipy project, I have previously written summaries of several research papers on [educational game design](http://platipy.readthedocs.org/en/latest/educgamedesign.html), and I'd like to suggest anyone interested in vanilla Minecraft for education read the [Charskey et al](http://platipy.readthedocs.org/en/latest/research/charsky2008.html) paper.
 
   
 
-More relevant to this discussion is a [second paper](http://platipy.readthedocs.org/en/latest/research/squire2006.html) by Squire, describing two different paradigms in educational game design: exogenous and endogenous. To quote: "In Exogenous games, the learning context is external to the gameplay, as opposed to internalized like in Endogenous games." In an endogenous game, understanding the material is key to succeeding in the situated game world at a very deep, integrated level. In an exogenous game, the educational material has been grafted on - consider a Mario game where every few minutes you are interrupted with a multiple choice quiz that you must pass before continuing the real game. To be successful, game designers should focus on developing endogenous games (unless drill-and-practice truly is all you need). When designing AnimalScienceCraft, Ellie and I constantly tried to keep things Endogenous.
+More relevant to this discussion is a [second paper](http://platipy.readthedocs.org/en/latest/research/squire2006.html) by Squire, describing two different paradigms in educational game design: exogenous and endogenous. To quote: "In Exogenous games, the learning context is external to the gameplay, as opposed to internalized like in Endogenous games." In an endogenous game, understanding the material is key to succeeding in the situated game world at a very deep, integrated level. In an exogenous game, the educational material has been grafted on - consider a Mario game where every few minutes you are interrupted with a multiple choice quiz that you must pass before continuing the real game. To be successful, game designers should focus on developing endogenous games (unless drill-and-practice truly is all you need). When designing AnimalScienceCraft, Ellie and I constantly tried to keep things Endogenous.
 
 ### Animal Science and Minecraft
 
@@ -45,7 +45,7 @@ This work began under [Dr. Michael Evans](http://ced.ncsu.edu/user/michael_evans
 
 ### Learning Objectives
 
-Before beginning work on educational games, it is critical to know what your learning objectives are. We used standards developed by the National Council for Agricultural Education National Council for Agricultural Education, designed for middle- and high- school aged students\[9\]. This list is actually fairly massive, and covers a lot of agricultural material outside of Animal Science. We only concerned ourselves with the subset of Animal Science objectives that we could transform into meaningful gameplay elements, to avoid cognitive overload. The relevant list of objectives are summarized in the table below:
+Before beginning work on educational games, it is critical to know what your learning objectives are. We used standards developed by the National Council for Agricultural Education National Council for Agricultural Education, designed for middle- and high- school aged students\[9\]. This list is actually fairly massive, and covers a lot of agricultural material outside of Animal Science. We only concerned ourselves with the subset of Animal Science objectives that we could transform into meaningful gameplay elements, to avoid cognitive overload. The relevant list of objectives are summarized in the table below:
 
 %%% TODO %%%  
 
@@ -74,10 +74,10 @@ _Objectives: Reproduction_
 
 Female animals have an estrous cycle now - once they reach adulthood, they will periodically go into heat (indicated by hearts over their head). At this time, they will actively seek out a male to mate with. Two animals are needed to reproduce:
 
-*   Pigs have large litters; the number of babies they produce is determined by their Potential for Production stat.
+*   Pigs have large litters; the number of babies they produce is determined by their Potential for Production stat.
 *   Cattle have single birth
 *   Sheep are inclined to have twins
-*   Chickens hatch from eggs. 
+*   Chickens hatch from eggs.
 
 In all cases, differently gendered animals are involved (roosters, bulls, rams, and boars have to breed the female).
 
@@ -100,7 +100,7 @@ Unlike regular Minecraft animals, they tend to improve over multiple generations
 
 **Hunger**
 
-_Objectives: __Animal Handling_
+_Objectives: __Animal Handling_
 
 Animals now eat to survive. If their hunger drops to zero, then they die. The amount of hunger they recover from their food source is determined by their Feed Efficiency stat.
 
@@ -167,8 +167,8 @@ Animals are named based on their species and reproductive capabilities. The in-g
 
 *   Cattle: Calf, Cow, Steer, Bull, Heifer
 *   Pigs: Sow, Gilt, Barrow, Boar, Hog, Piglet
-*   Sheep: Lamb, Ewe, Ram, Wether, Yearling
-*   Chicken: Cockerel, Rooster, Capon, Hen, Pullet, Chick
+*   Sheep: Lamb, Ewe, Ram, Wether, Yearling
+*   Chicken: Cockerel, Rooster, Capon, Hen, Pullet, Chick
 
 **Domestication**
 
@@ -182,7 +182,7 @@ Wild animals are not easy to manage - they are skittish if you move too fast and
 
 _Objectives: Reproduction, Handling_
 
-Stressed animals will not reproduce and will get antsy (make them move about more). They also act like they are less domesticated. One of the most complicated aspects of animals are their stress level, which is a combination of many factors. For instance: animals do not like to be too tightly packed, they do not like to be hungry, etc.
+Stressed animals will not reproduce and will get antsy (make them move about more). They also act like they are less domesticated. One of the most complicated aspects of animals are their stress level, which is a combination of many factors. For instance: animals do not like to be too tightly packed, they do not like to be hungry, etc.
 
   
 
@@ -218,7 +218,7 @@ Although a lot of practical and interesting Animal Science knowledge is situated
 
   
 
-Will AnimalScienceCraft be successful? We won't pretend that ASC is something that everyone will add to their installation of Minecraft and then play in an informal setting - it introduces some changes that might make the game a little less fun at the cost of the educational value. However, I can easily imagine it being used in a formal (e.g., middle school science class) or non-formal setting (after school FFA club). People with a casual interest might play it a few times and pick up some knowledge that they didn't have before.
+Will AnimalScienceCraft be successful? We won't pretend that ASC is something that everyone will add to their installation of Minecraft and then play in an informal setting - it introduces some changes that might make the game a little less fun at the cost of the educational value. However, I can easily imagine it being used in a formal (e.g., middle school science class) or non-formal setting (after school FFA club). People with a casual interest might play it a few times and pick up some knowledge that they didn't have before.
 
   
 
@@ -231,16 +231,16 @@ Our next big step is to get funding for this project, possibly through the ICAT 
 
 \[3\] Mojang. "MINECRAFT END USER LICENCE AGREEMENT." Mojang. Web. 26 Dec. 2014.
 
-\[4\] Phu, L. "Minecraft in the Classroom: When Learning Looks like Gaming." _KTOO_. 24 Apr. 2014. Web. 26 Dec. 2014. <http://www.ktoo.org/2014/04/24/minecraft-classroom-learning-looks-like-gaming/>.
+\[4\] Phu, L. "Minecraft in the Classroom: When Learning Looks like Gaming." _KTOO_. 24 Apr. 2014. Web. 26 Dec. 2014. <http://www.ktoo.org/2014/04/24/minecraft-classroom-learning-looks-like-gaming/>.
 
-\[5\] ThatWeirdPhysicist. "Learning logic gates in Electronics Class." Imgur. May 5, 2014. Web. 26 Dec 2014. <http://i.imgur.com/CCQiVmj.jpg>.
+\[5\] ThatWeirdPhysicist. "Learning logic gates in Electronics Class." Imgur. May 5, 2014. Web. 26 Dec 2014. <http://i.imgur.com/CCQiVmj.jpg>.
 
 \[6\] "MinecraftEdu - About." MinecraftEdu - About. Web. 26 Dec. 2014. <http://minecraftedu.com/about>.\[7\] "OPERAcraft." OPERAcraft. Web. 26 Dec. 2014. <http://www.icat.vt.edu/funding/operacraft>.
 
 \[7\] OPERAcraft. (n.d.). Retrieved January 12, 2015, <http://www.icat.vt.edu/funding/operacraft>  
 \[8\] Short, Daniel. "Teaching Scientific Concepts Using a Virtual World--Minecraft."Teaching Science 58.3 (2012): 55-58.
 
-\[9\] National Council for Agricultural Education. (2009). National agriculture, food and natural resources (afnr) career cluster content standards. Alexandria, VA: National FFA Foundation.
+\[9\] National Council for Agricultural Education. (2009). National agriculture, food and natural resources (afnr) career cluster content standards. Alexandria, VA: National FFA Foundation.
 
   
 
