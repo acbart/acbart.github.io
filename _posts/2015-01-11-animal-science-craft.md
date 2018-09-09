@@ -338,6 +338,8 @@ Will AnimalScienceCraft be successful? We won't pretend that ASC is something th
 
 Our next big step is to get funding for this project, possibly through the ICAT center at Virginia Tech. Not only will we be able to scale up development, we can also conduct formalized research in order to find the real value of this system. We really need a dedicated undergraduate or graduate student who can develop on it full-time. Digitally Mediated Learning offers a lot of promise to teach people in innovative ways, but it rests on researchers to ensure that the tools really stick the landing.
 
+*We ultimately did not obtain funding, and progress on the project has stalled. We did produce a [poster presentation](/papers/GSA.Poster.pdf), however!*
+
 ### References
 
 \[1\] Mojang. ["Minecraft Stats"](https://minecraft.net/stats). www.minecraft.net. Microsoft. Retrieved 20 September 2014  
