@@ -9,9 +9,9 @@ tags: [opinion, writing]
 
 Last semester, I took a seminar discussing how the Computer Science department should offer a course to non-majors on Computational Thinking. With the exception of myself and two or three other students, no one had any kind of formal education background (e.g., had taken classes in Educational Psychology, or Learning Sciences, etc.).
 
-*   **These students were Content Knowledge** experts: they were well aware of and comprehended important subjects in Computer Science. 
-*   But they lacked **Pedagogical Knowledge**: they don't know how to teach. 
-*   By extension, they were lacking in **Pedagogical Content Knowledge**: they didn't know how to teach the subject they knew so very much about. 
+*   **These students were Content Knowledge** experts: they were well aware of and comprehended important subjects in Computer Science.
+*   But they lacked **Pedagogical Knowledge**: they don't know how to teach.
+*   By extension, they were lacking in **Pedagogical Content Knowledge**: they didn't know how to teach the subject they knew so very much about.
 
 These terms are taken from a framework that describes this distinction eloquently: [TPACK](http://www.tpack.org/).
 
