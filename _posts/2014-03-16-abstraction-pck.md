@@ -2,7 +2,7 @@
 layout: post
 title: Abstraction - Content Knowledge vs. Pedagogical Content Knowledge
 author: Austin Cory Bart
-tags: [opinion, writing]
+tags: [teaching, abstraction]
 ---
 
 **Summary: Just because CS is abstract, doesn't mean we should teach abstractly.**

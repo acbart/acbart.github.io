@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Context in Cognition: Functions and Objects
+title: Context in Cognition - Functions and Objects
 author: Austin Cory Bart
-tags: [opinion, writing]
+tags: [opinion, teaching, programming paradigms]
 ---
 
 You should not start by teaching your students how to create functions and objects. Functions and objects are programming techniques for organizing code that has grown: functions reduce code repetition, and objects clump related data structure with the operations on that data. There are few <8-line program that provide a truly useful context to justify this. According to Situated Learning Theory, your students will not be cognitively convinced about them and will not learn as well.
