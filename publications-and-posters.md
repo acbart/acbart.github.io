@@ -1,5 +1,7 @@
 # Publications
 
+L. Gusukuma, A. C. Bart, D. Kafura, _Misconception-Driven Feedback: Results from an Experimental Study_, ICER '18, Finland. August, 2018.
+
 A. C. Bart, E. Tilevich, C. A. Shaffer, D. Kafura, _Reconciling the Promise and Pragmatics of Enhancing Computing Pedagogy with Data Science_, SIGCSE '18, Baltimore, MD. February, 2018.  
 
 L. Gusukuma, A. C. Bart, D. Kafura, _Instructional Design + Knowledge Components: A Systematic Method for Refining Instruction,_ SIGCSE '18, Baltimore ,MD. February, 2018.
