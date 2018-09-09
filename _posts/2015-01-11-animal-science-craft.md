@@ -5,7 +5,7 @@ author: Austin Cory Bart and Eleonor Cayford
 tags: [games, projects, animalsciencecraft]
 ---
 
-![Ellie and Cory with Minecraft toys](images/posts-asc1.jpg)
+![Ellie and Cory with Minecraft toys](/images/posts-asc1.jpg)
 
 By Austin Cory Bart and Eleonor Cayford
 
@@ -184,13 +184,13 @@ In the following section, we'll describe the mechanics we've introduced. There a
 
   
 
-![Gender in Pigs](images/posts-asc-gendered_pigs.png)
+![Gender in Pigs](/images/posts-asc-gendered_pigs.png)
 
 **Gender**
 _Objectives: Reproduction, Classification_  
 Animals now have Gender, which results in visible differences in the animal (in the picture above, male pigs are darker than female pigs). In order to breed two pigs, they must be different genders. Further, gender affects the utility of the animal - male cows do not produce milk, for instance.
 
-![Estrous in Pigs](images/posts-asc-estrous.png)
+![Estrous in Pigs](/images/posts-asc-estrous.png)
 
 **Reproduction**
 
@@ -229,7 +229,7 @@ _Objectives: __Animal Handling_
 Animals now eat to survive. If their hunger drops to zero, then they die. The amount of hunger they recover from their food source is determined by their Feed Efficiency stat.
 
 
-![Bacon from Pigs](images/posts-asc-bacon.png)
+![Bacon from Pigs](/images/posts-asc-bacon.png)
 
 **Animal Products**
 
@@ -254,7 +254,7 @@ Some animals have by-products that do not require killing the animal. These drop
 *   Feathers are dropped passively, similar to eggs.
 *   Wool is much the same as it was before
 
-![Varying Sizes in Pigs](images/posts-asc-sizes.png)
+![Varying Sizes in Pigs](/images/posts-asc-sizes.png)
 
   
 **Size and Age**
@@ -300,7 +300,7 @@ Stressed animals will not reproduce and will get antsy (make them move about mor
 
   
 
-![Stats Screen](images/posts-asc-stats-screen.png)
+![Stats Screen](/images/posts-asc-stats-screen.png)
 
 ### Technical Details
 
@@ -326,7 +326,7 @@ All work for this project is freely available on [the LearnCraft github](https:/
 
 ### Conclusion
 
-![LearnCraft is an Educational Minecraft Textbook](images/posts-asc-learncraft.png)
+![LearnCraft is an Educational Minecraft Textbook](/images/posts-asc-learncraft.png)
 
 Although a lot of practical and interesting Animal Science knowledge is situated in our Minecraft mod, something more is needed to solidify player's learning. Our AnimalScienceCraft mod is part of a larger project named "LearnCraft", and at the heart of that project is a powerful reference manual for Minecraft embedded within the game. This manual is tied into the event system of Minecraft so that players can get guided feedback on how to play the game in a just-in-time style. This system will get its own proper blog post sometime this semester, as we prepare it for beta release.
 
@@ -358,4 +358,4 @@ Our next big step is to get funding for this project, possibly through the ICAT 
 
   
 
-![We stacked the toys on Klaus](images/posts-asc-stacked.jpg)
+![We stacked the toys on Klaus](/images/posts-asc-stacked.jpg)
