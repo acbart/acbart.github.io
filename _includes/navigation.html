@@ -12,7 +12,7 @@
         {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
         {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 
-        {% if current == include.context %}
+        {% if current == include.context and current != "/contact/" %}
             <span class="{% if page.url contains entry.url %}active{% endif %}">
                 <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
                 {% include navigation.html context=entry.url %}
@@ -20,5 +20,9 @@
         {% endif %}
 
     {% endfor %}
+    <span class="{% if page.url contains "/contact/" %}active{% endif %}">
+        <a href="{{ site.baseurl }}/contact/">Contact Me</a>
+        {% include navigation.html context=entry.url %}
+    </span>
 </div>
 {% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
