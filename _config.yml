@@ -13,6 +13,8 @@ url:                 http://acbart.github.io/
 baseurl:             /
 logo:                images/vtCSDepartmentHeadshot-smaller.jpg
 
+comments: true
+
 description: Github Pages for acbart
 google_analytics: 
 show_downloads: false
