@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocks Came Through: An Anecdote from the Final
+title: Blocks Came Through - An Anecdote from the Final
 author: Austin Cory Bart
 tags: [blockpy, functional programming]
 ---
