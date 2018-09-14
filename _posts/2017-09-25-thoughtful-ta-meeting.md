@@ -1,3 +1,10 @@
+---
+layout: post
+title: Thoughts from a Thoughtful TA Staff Meeting
+author: Austin Cory Bart
+tags: [department, computer science education, teaching assistants]
+---
+
 I'm used to being the only person in the room with an angry CS Education rant, so I was pleasantly surprised today when my UTAs all launched into an impromptu discussion about what's wrong with Computer Science Education. Although they were only able to frame their conversation about the CS program here at Virginia Tech, the things they were describing are almost universal. Their observations match up with research. In no particular order, some of the things they talked about were:
 
 *   Many students find assignments decontextualized (inert) and not interesting or useful.
