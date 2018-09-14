@@ -6,6 +6,8 @@ A Pedagogical Library for analyzing student's Python work and delivering feedbac
 
 ## CORGIS
 
+![CORGIS Logo](/images/corgis-logo-smaller.jpg)
+
 [CORGIS Website](http://think.cs.vt.edu/corgis/)  
 
 Many Introductory Computer Science courses rely on abstract problems, which clashes with students' experiences in a media and data-rich world. By using real data sources, academic problems are contextualized, thereby
@@ -30,6 +32,8 @@ To overcome these challenges, we've created:
 Developed under [Dr. Eli Tilevich](http://people.cs.vt.edu/~tilevich/),[Dr. Cliff Shaffer](http://people.cs.vt.edu/~shaffer/), and [Dr. Dennis Kafura](http://people.cs.vt.edu/~kafura/) as part of two [NSF Grant](http://nsf.gov/awardsearch/showAward.do?AwardNumber=1140318)s.
 
 ## BlockPy
+
+![BlockPy Logo](/images/blockpy-logo-small.png)
 
 [BlockPy](http://think.cs.vt.edu/blockpy) is a web-based Python environment that lets you work with blocks, text, or both. Designed for Data Science and equipped with powerful tools like the State Explorer and Guided Feedback, the goal of BlockPy is to let you solve authentic, real-world problems.
 
