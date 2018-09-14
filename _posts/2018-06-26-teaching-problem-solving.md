@@ -1,3 +1,10 @@
+---
+layout: post
+title: On the Challenges of Teaching Problem-Solving in Intro Python
+author: Austin Cory Bart
+tags: [python, problem-solving, curriculum]
+---
+
 There was a great SIGCSE-members list a while back with a list of CS Ed blogs (mine was on there!). I wanted to start reading over other people's blog posts, possibly making my own blog posts in return. This is the first post that came of this, but I hope to make more posts soon.
 
 [https://gflint.wordpress.com/2018/06/14/garth-goes-back-to-college-opps/](https://gflint.wordpress.com/2018/06/14/garth-goes-back-to-college-opps/)
