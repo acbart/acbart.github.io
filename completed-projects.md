@@ -29,6 +29,8 @@ Topics covered by this modification, based on [FFA learning standards](https://w
 
 ## Rhinestone
 
+*No longer active*
+
 A web-based textbook/course delivery system for an introductory Computational Thinking class. An extension of the popular Runestone platform totally rewritten in Flask. Incorporates a number of novel elements including real-time collaboration, a block-based programming environment, and useful feedback mechanisms.
 
 ![](/images/rhinestone_1.png)
@@ -53,6 +55,8 @@ Course staff has powerful tools for viewing the classes status, but also to dril
 A analyzer for a classical, turn-based video game utilizing Sparse-Matrix Analysis to quickly navigate a massive probabilistic state space. This system can accurately identify outcomes of match-ups between two players.
 
 ## Virginia Tech Computer Science Graduate Student Homepage System
+
+*No longer active*
 
 A utility for Virginia Tech CS Grad Students to upload a structured file containing their academic information, which then makes them [searchable](http://csgrad.cs.vt.edu/search/) on the Graduate Council website. A structured, real-time [editor](http://csgrad.cs.vt.edu/edit/) is also available on the graduate council website.
 
