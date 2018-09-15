@@ -2,6 +2,8 @@ My name is Austin Cory Bart, and I'm an Assistant Professor at the University of
 
 My [CV](/papers/cv-latex.pdf) as of 9/14/2018.
 
+My [GitHub](https://github.com/acbart).
+
 Check out some of my work:
 
 * [CORGIS project](http://think.cs.vt.edu/corgis)
