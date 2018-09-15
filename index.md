@@ -1,5 +1,7 @@
 My name is Austin Cory Bart, and I'm an Assistant Professor at the University of Delaware. In spring 2017, I received my PhD in Computer Science with a Learning Sciences certification from Virginia Tech.
 
+My [CV](/papers/cv-latex.pdf) as of 9/14/2018.
+
 Check out some of my work:
 
 * [CORGIS project](http://think.cs.vt.edu/corgis)
