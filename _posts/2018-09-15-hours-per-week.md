@@ -17,7 +17,7 @@ Another way of approaching this problem is by credit hours. The U.S. Department 
 
 ![Average Hours per Week per Student](/images/python_average_hours_per_week_shifted.png)
 
-Of course, just thinking about how LONG students should spend is probably pointless if they aren't doing the right things. My colleague noted that many students don't follow the Paired Programming model or use the Design Recipes we give them. They waste a lot of time on things that don't help them as much as they think they should ("I just wanted to try this first!" sounds good, but the reality is that a lot of effort is wasted because they didn't set up the right problem).
+Just thinking about how LONG students should spend is probably pointless if they aren't doing the right things. My colleague noted that many students don't follow the Paired Programming model or use the Design Recipes we give them. They waste a lot of time on things that don't help them as much as they think they should ("I just wanted to try this first!" sounds good, but the reality is that a lot of effort is wasted because they didn't set up the right problem).
 
 Of course, there's more to be done to support them. Without autograding and immediate feedback mechanisms, it's almost natural for students to spend long periods of time on wasted effort. They could complete an entire lab without doing a single thing correct, and they might not know until they get the lab back two weeks later. Unit tests help, sure, but who said students are writing good unit tests? Students are also notoriously bad at seeking help when they need it - either because of busy schedules, introversion, laziness, or a lack of awareness of the support structures, many students don't get help when they need it.
 
