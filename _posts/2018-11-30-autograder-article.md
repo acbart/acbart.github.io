@@ -1,0 +1,18 @@
+---
+layout: post
+title: Response to Autograders Goes Awry
+author: Austin Cory Bart
+tags: [opinion, writing, response, news, autograder, feedback]
+---
+
+There was an article today about autograders (["Autograding System Goes Awry, Students Fume"](https://www.insidehighered.com/news/2018/11/30/autograder-issues-upset-students-berkeley), and it's been making the rounds. Given my enthusiasm and publishing history with autograders, I've had it forwarded to me a couple times.
+
+We had many of these problems back at VT, and we will have these problems here at UD. I see all of the usual suspects: errors with unit tests producing temporarily incorrect results for students, downtime because of too many concurrent users, etc. To these, I will give my usual response: "The only thing worse than having an autograder is not having an autograder."
+
+Human feedback is obviously better than computerized feedback. But it's slow. I have students who are only just getting back assignments from early October. Novices need lots of feedback, as quickly as possible. The change in my CS1 course after we reached the Python unit (and its autograder) is almost palpable (and I've heard students comment on it a few times, attributing positive attitudes largely to the autograder). Yes, they are somewhat frustrated at times by the feedback, but they get frustrated at any number of things. I think autograders have great promise, and most of my favorite research work in the past 3 years has been specifically about [improving the tools teachers have to make automatic feedback](https://dl.acm.org/citation.cfm?id=3231002), and that has been the focus of our [Pedal project](https://github.com/acbart/pedal).
+
+The students in the article complain about downtime. One remarks that it is "odd" that the system would go down right near submission deadlines. Obviously, it's not ideal, but it's so common with academic software because it's hard to develop systems that scale. There's no CS class that prepares you for dealing with 1000 students hitting your server at once. Student code executed on the server has to be safely sandboxed, requiring heavy virtualization. How do you test and improve your software, when it only happens during peak hours? It sounds very reasonable to demand great software from CS professors, but the reality is that it's an engineering process like any other. That's why systems like GradeScope have promise - but then we monetize the process and students have to pay in other ways. 
+
+It sounds like there could be other issues with transparency from the professor, and making sure their tests are right, and scheduling deadlines. But I've seen the other side too often to trust the students quoted. Those students who wait until 11:50pm to make their first submission, who skip reading the output of the autograder and just resubmit their code unchanged, and who can't find blame in themselves... Well, suffice to say I've met them many, many times.
+
+I was surprised by the quote from Mark Guzdial at the end. However, this ended up being clarified on [Twitter](https://twitter.com/guzdial/status/1068555747066372101) later - he meant specifically courses on User Interface development, Research Papers, Multimedia. Those are a distinctive set from the kind of course described in the article. I wish the writer hadn't even tried to draw such conclusions! Overall, I don't think this article really does more than try to stir the pot, without really giving a fair and balanced view of the benefits of automatic grading.
