@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Response to Autograders Goes Awry
+title: Response to Autograder Goes Awry
 author: Austin Cory Bart
 tags: [opinion, writing, response, news, autograder, feedback]
 ---
