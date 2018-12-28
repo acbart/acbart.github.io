@@ -11,6 +11,8 @@ This February marks the 50th SIGCSE conference. Also that month, I will be taske
 
 * Peer instruction can be a powerful tool. At least one best paper and a lot of great SIGCSE papers came out of this approach. [Great website](https://www.peerinstruction4cs.org/) that explains how to go about integrating clickers and peer instruction into your class.
 
+* Pair Programming also seems pretty effective. I personally struggle to ensure that students follow the model correctly, but even without it there seems to be positive impacts.
+
 * Functional (De)composition is a good tool. My reading of the "How to Design Programs" folks' work is that they made progress on the Rainfall Problem by teaching students to solve complex problems by dividing the actions into phases and tackling each one individually. Obviously we all teach Functional Decomposition, but they did so in a intentional way. We might not all need Design Recipes for our students, but we probably need something like it.
 
 * Contextualization seems to be important for broadening participation. My own research suggests that some contexts may be more valuable than others for certain audiences. Pragmatically, I think you can easily get the best of all worlds by choosing a few different contexts.
