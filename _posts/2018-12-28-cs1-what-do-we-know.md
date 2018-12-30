@@ -17,6 +17,5 @@ This February marks the 50th SIGCSE conference. Also that month, I will be taske
 
 * Contextualization seems to be important for broadening participation. My own research suggests that some contexts may be more valuable than others for certain audiences. Pragmatically, I think you can easily get the best of all worlds by choosing a few different contexts.
 
-* Language probably matters less than people. I don't have any strong evidence here, but I want to point out that we've seen a number of arguments on all sides for Python, Java, Racket in different styles of Functional-first, Imperative-first, Objects-first, Algorithms-first, etc. At this point, I suspect that the people question matters more - what does the instructor want to teach, what do the students value, can you find the resources to make the approach scale. If you can find existing lessons and an autograder for language X, that's a better fit than a language that doesn't have those things. Either way, I don't think anyone needs to "win" the debate - we just need to stop debating it and make progress on a few tracks.
 
 Do you have your own addition for this list? Let me know. Preferably with some compelling evidence to back it up.
