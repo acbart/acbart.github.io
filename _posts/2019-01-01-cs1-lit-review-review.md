@@ -155,3 +155,117 @@ It's interesting that this is the conclusion of the paper. I recalled reading re
 > "Students working in pairs produce work that is of higher quality than students working alone, but the improved performance does not extend to individually assessed work."
 
 > "Pair programming may provide greater support for students with low academic performance, resulting in increased pass rates and improved retention, but provides little measurable benefit for more experienced students. Several studies have also reported that the benefits of pair programming are more pronounced for women."
+
+These results surprised me. There's a lot of push for Paired Programming out there, but they found 4 papers that suggest it doesn't have impact on individually assessed work ([Mcdowell 2003](https://ieeexplore.ieee.org/abstract/document/1201243/), [Radermacher 2011](https://dl.acm.org/citation.cfm?id=1953346), [Williams 2003](https://ieeexplore.ieee.org/abstract/document/1237973), [Wood 2003](https://dl.acm.org/citation.cfm?id=2667201)). I see the benefits, but I guess they don't include cognitive ones. I feel like I'll be moving to an optional XP model for my courses past the first module, for any students who hate Paired Programming (as I did).
+
+# 6.3.2. Think/Pair/Share Works
+
+> "An experiment comparing the use of think-pair-share (TPS) with a traditional lecture format in a single class showed that students learning with TPS believed that it helped them to learn. On a subsequent quiz the TPS group scored significantly better than the control group." ([Kothiyal 2014](https://dl.acm.org/citation.cfm?id=2591739))
+
+# 6.3.2. Group Learning is Good
+
+> "Cooperative learning activities that assign specific roles to each student in a team are reported to improve motivation, confidence, problem-solving ability, individual performance on exams, and performance in subsequent courses. Although collaborative activities are easier to implement face to face, the benefits of working collaboratively with peers extend to distributed environments when supported by collaborative tools."
+
+To me, this sounds like [POGIL](http://cspogil.org/Home). So I guess that's a model to follow. 
+
+# 6.3.3. We Still Don't Know How to Order Topics
+
+As I expected, they didn't find any modern papers with empirical evidence to suggest how you should order topics. Plenty of people arguing one way or the other, but nothing more concrete. A lot of people are proposing specific topics from upper-division areas (e.g., Cryptography, databases, concurrency), but not backing them up with anything tangible.
+
+# 6.3.3. TDD's Effect is Unvalidated?
+
+I have been heavily influenced by my interactions with Steve Edwards, who's one of the smartest researchers I know. Steve's written many papers about the benefits of TDD in CS1, and I think his research has more or less taken it as a given. I was therefore surprised that the Lit Review didn't provide any papers with evidence to support the value of TDD in CS1. I hope Steve or someone in this area gets a chance to talk about this; I'd like to hear what might know about justification in this space.
+
+# 6.3.3. Many Exercises Are Good, I Guess?
+
+The paper describes a number of research studies that incorporate many exercises, and describe the impact of various twists on that theme. I have always relied on programming exercises in my course, and I guess they're also taken as a given. In many ways, my exercises match my exams, so I think it's a reasonable expectation that completing them improves exam outcomes.
+
+I want to reference a paper I read a while back, about the [Many-Small Programs approach](https://peer.asee.org/weekly-programs-in-a-cs1-class-experiences-with-auto-graded-many-small-programs-msp). It seems like they have some interesting evidence to suggest that you should keep exercises relatively small and disconnected.
+
+# 6.3.3. Live Coding Helps
+
+> "In an experiment, [Rubin](https://dl.acm.org/citation.cfm?id=2445388) found that students who were taught using live coding achieved higher grades on programming projects than students who were taught using static examples that are not modified live in front of the students."
+
+# 6.3.3. Explicit Processes May Not Stick
+
+I have a lot of opinions on "How to Design Programs", which I will write up at some point. I just spent the past semester teaching with their curriculum, which advocates for teaching students a "Design Recipe". They argue that giving students a series of concrete steps to guide their development can help them complete problems more effectively.
+
+[Castro 2016](https://dl.acm.org/citation.cfm?id=2844574) did an experiment where HtDP students solved a new kind of problem. It sounds like they weren't really able to apply the design process, although the paper suggests they may need to do more to teach that skill.
+
+I will note that the Lit Review paper does not seem to cite any evidence for HtDP being a superior approach. I have searched for such evidence myself. I have not found anything particularly compelling (although Kathi Fisler's progress on Rainfall has some merit). For a process that is 10+ years old, I am relatively unconvinced about the whole thing. Again, I think this merits a longer blog post (one that I am sure will get me in trouble with some folks), but from my reading of this paper, there's not much evidence to support trying to teach students some kind of clear process.
+
+# 6.3.3. Metaphors Help Short-Term, Maybe Long-term?
+
+The paper finds few studies that explicitly demonstrate evidence for the use of metaphors and analogies. They did find a study with short-term gains ([Cao 2016](https://dl.acm.org/citation.cfm?id=2960313)), but nothing long-term. However, I think this is one of those things that everyone is going to use no matter what, because it's just a basic pedagogical tool. I think, more likely, there are bigger open questions about SPECIFIC metaphors than whether they work in general.
+
+# 6.4.11 Autograding Is Good
+
+> "After careful consideration of the effects of automation and how it should be applied, [Wilcox] presents results from a highly automated introductory programming course, concluding that carefully managed automation can increase student performance while saving teaching resources." ([Wilcox 2015](https://dl.acm.org/citation.cfm?id=2677226))
+
+# 6.5. Undergraduate TAs Are Good
+
+> "Several studies focus on hiring undergraduates to participate as teaching assistants (TAs) in introductory programming courses, thus allowing upper-level students to contribute, take responsibility, and learn the content in greater depth. This approach provides several advantages, such as community building, participatory development of learning materials, high engagement and feedback, and increasing the sense of responsibility and interest." ([Decker 2006](https://dl.acm.org/citation.cfm?id=1121358), [Vihavainen 2013](https://dl.acm.org/citation.cfm?id=2462508))
+
+# 7. Recursion or Iteration? Eh.
+
+The paper references a citation for an [ICER'12 paper by Mirolo](https://dl.acm.org/citation.cfm?id=2361296) that tries to draw some conclusions about whether there's any difference in difficulty when teaching recursion (through Scheme) and iteration (through Java). They conclude that there doesn't seem to be much difference in difficulty. I don't know that we can really generalize that beyond the languages and teaching approaches they use. In general, I'm open to the idea that both paths lead to success and you should not choose based on an expectation that one is easier than the other - but clearly the question is still open.
+
+# 7.1. Programming Languages. Oh lordy.
+
+> "[The programming language wars](https://dl.acm.org/citation.cfm?id=2661156) have for decades played a major role in computing education publications, and were assured of a place in our search."
+
+> "Given the perennial question of which language, if any, is best suited for the teaching of introductory programming, many papers describe empirical comparisons between languages, often finding no significant difference in learning outcomes, but sometimes finding differences in student satisfaction."
+
+> "The choice of programming language is clearly a highly subjective one and is driven by many competing factors. It is clear that the literature will continue to host publications making the case for different programming language choices — and that no paper or series of papers will ever put an end to the debate, as no programming language will ever satisfy all of the conflicting requirements of an introductory programming course."
+
+You want my take? Let's all stick to Python, Java, and maybe one other language for CS1 (maybe JavaScript?). I just want to share resources and tools with other people, and I need everyone using the same small set of languages. But hey, this is wishful thinking - I'm sure by the time I retire we'll have made no progress in shrinking the pool.
+
+# 7.2. Programming Paradigms. Yeah, Nothing There Either.
+
+> "As with programming languages, each paradigm has its proponents, and after full consideration of all the papers it is by no means clear that any paradigm is superior to any other for the teaching of introductory programming."
+
+Again, let's pick a couple that we all stick to and make progress on. 
+
+# 8.1. Students Make Fewer Mistakes on Computer Exams.
+
+> "Students working on computers produce more accurate code than on paper." ([Lappalainen 2017](https://jyx.jyu.fi/handle/123456789/56306))
+
+There was some interesting discussion in that paper - they mention there was a bigger impact on some of their data that they didn't have room to include. Basically, it does seem like computer based exams allow for better results from students.
+
+# 8.1. Cheat-sheets Are Good.
+
+> "Exploring the use of a "cheat sheet" of hand-written notes in a closed-book written exam, de Raadt found that thoughtfully prepared cheat sheets were found to improve student performance and support students without incurring the disadvantages of openbook exams." ([De Raadt 2012](https://dl.acm.org/citation.cfm?id=2483725))
+
+# 8.1. Collaborative Exams Might Be Good
+
+> "Sindre et al report the use of open-ended group assignments and the use of collaborative exams where students work in small groups to solve a set of problems. Collaborative exams were most beneficial to mid-performing students and worked best when group members had comparable levels of ability." ([Sindre 2003](https://dl.acm.org/citation.cfm?id=776900))
+
+# 8.3. We Should Stop Testing Multiple Concepts At Once
+
+> "Another analysis of exam papers from multiple institutions by [Petersen et al.](https://dl.acm.org/citation.cfm?id=1953340) finds that most questions focus on code writing and involve multiple concepts, making them challenging for novices. In a follow-up study, single-concept questions were trialled and were found to be predictors of overall performance on code-writing questions. A study by [Zingaro et al.](https://dl.acm.org/citation.cfm?id=2157215) found that these single-concept questions can simplify the marking process and provide more accurate feedback. A more recent study by [Luxton-Reilly and Petersen](https://dl.acm.org/citation.cfm?id=3013500) analyses exam questions to determine the syntax elements involved in each question, giving a detailed picture of what is assessed and confirming that questions typically involve multiple conceptual components."
+
+# 8.4. Pop Quizzes Could Be Useful... But...
+
+> "One mechanism proposed by [Cicirello](https://dl.acm.org/citation.cfm?id=1508971) for continuous feedback uses unannounced 'pop' quizzes, which were found to improve students' performance."
+
+Yeah, but seriously students hate pop-quizzes. It's a costly move - the cited study mitigates it by making it relatively low-stakes. At that point, it's not unlike the clicker model. I think that you have to take this one with a grain of salt and a thorough understanding of the affordances and limitations.
+
+# 8.6. We Don't Know Too Much about Academic Integrity
+
+> "The [2016 ITiCSE Working Group of Simon et al.](https://dl.acm.org/citation.cfm?id=3024910) investigated academic integrity in relation to computing courses. A key finding of the study was that academics often take different approaches to prevent and deal with academic integrity violations depending on the level of the course. The small number of papers dealing with academic integrity in introductory programming courses is therefore a concern. Furthermore, the emphasis on detection rather than education indicates that this is an area in need of further research."
+
+I don't feel like I walked away with much from this section. They offer some papers with strategies, and discuss instructor patterns, but I think we need more.
+
+# 10.3. Go to SIGCSE
+
+> "However, it also suggests that a very wide range of activities and approaches can make introductory programming courses interesting and engaging. This contrasts with broader benchmarks of levels of engagement in computing and reported high dropout rates. Given that almost anything we try appears to work, these conflicting results suggest that the broader computing education community might benefit from increased engagement with SIGCSE and computing education conferences."
+
+# 10.3. Curriculum Packaging is a Problem
+
+> "For future publications, we recommend that authors report much more detailed information about the context in which they are operating, and, where possible, publicly archive detailed information about their syllabus, learning outcomes, infrastructure, teaching approaches, and population demographics, for the reference of future researchers."
+
+This almost feels like a hook for one of my new major research projects in the CSSPLICE initiative. I want to improve the way we package curricular materials. The impact on publishing is just one of the advantages if we can get a format together that makes it easier to document and share curricula. My collaborators and I will be running a Birds of a Feather at SIGCSE'19 - hope to see you there!
+
+# Conclusion
+
+Well, this ended up being the longest blog post I think I've ever written, even topping out my post on AnimalScienceCraft. I know that a lot of it is just copied text from the paper, but I think the authors did a good job with their summaries in a lot of places. I hope you learned something, because I certainly had some thoughtful takeaways. If you find anything you want to add, discuss, or debate, please do comment about it! I think this paper should lead to some very interesting discussions in the community.
