@@ -9,6 +9,7 @@ Before the end of last year, I posted a blog asking, "What do we know about CS1?
 
 The entire paper is worth a close read, and I've now done two passes. If you're interested in doing research at the CS1 level, I think it's worth a read yourself. However, I wanted to summarize the blog post from a teacher perspective, hopefully making the salient results accessible. Therefore, you should view this blog post as a focused summary, not a complete review or abstract of the paper. In other words, I might skip some good stuff if I can't find a connection to my teaching!
 
+
 # 2/3/9. Introductory Programming: A Systematic Literature Review
 
 The [paper in question](https://www.researchgate.net/publication/329544316_Introductory_Programming_A_Systematic_Literature_Review) is the report from a 2018 ITiCSE Working Group on research in CS1. The authorship list is impressive, with a lot of great folks from around the world (Andrew Luxton-Reilly, Brett Becker, Amruth Kumar, Judy Sheard, and many more). The citation count clocks in at an astounding 735 papers, and there's about 32 pages of content besides the references. In doing their literature review, the authors report that they read over 5056 papers. I was a little overwhelmed just skimming through.
@@ -215,7 +216,7 @@ The paper references a citation for an [ICER'12 paper by Mirolo](https://dl.acm.
 
 > "Given the perennial question of which language, if any, is best suited for the teaching of introductory programming, many papers describe empirical comparisons between languages, often finding no significant difference in learning outcomes, but sometimes finding differences in student satisfaction."
 
-> "The choice of programming language is clearly a highly subjective one and is driven by many competing factors. It is clear that the literature will continue to host publications making the case for different programming language choices — and that no paper or series of papers will ever put an end to the debate, as no programming language will ever satisfy all of the conflicting requirements of an introductory programming course."
+> "The choice of programming language is clearly a highly subjective one and is driven by many competing factors. It is clear that the literature will continue to host publications making the case for different programming language choices â€” and that no paper or series of papers will ever put an end to the debate, as no programming language will ever satisfy all of the conflicting requirements of an introductory programming course."
 
 You want my take? Let's all stick to Python, Java, and maybe one other language for CS1 (maybe JavaScript?). I just want to share resources and tools with other people, and I need everyone using the same small set of languages. But hey, this is wishful thinking - I'm sure by the time I retire we'll have made no progress in shrinking the pool.
 
