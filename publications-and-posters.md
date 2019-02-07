@@ -1,6 +1,8 @@
 # Publications
 
-A. C. Bart, A. Sarver, M. Friend, L. Cox, [PythonSneks: An Open-Source, Instructionally-Designed Introductory Curriculum with Action-Design Research](papers/acbart-sigcse19-sneks.pdf), SIGCSE'19, Minneapolis, Minnesota. February, 2019.
+T. Price, D. Hovemeyer, K. Rivers, A. C. Bart, A. Petersen, B. Becker and J. Lefever, ProgSnap2: A Flexible Format for Programming Process Data, CSEDM'19, Tempe, Arizona. March, 2019.
+
+A. C. Bart, A. Sarver, M. Friend, L. Cox, [PythonSneks: An Open-Source, Instructionally-Designed Introductory Curriculum with Action-Design Research](papers/acbart-sigcse19-sneks.pdf) (won 3rd Best Paper in Curriculum track!), SIGCSE'19, Minneapolis, Minnesota. February, 2019.
 
 A. C. Bart, C. A. Shaffer, What Have We Talked About?, SIGCSE'19, Minneapolis, Minnesota. February, 2019.
 
