@@ -1,5 +1,9 @@
 # Awards
 
+## 2019
+
+* SIGCSE 3rd Best Paper (Curriculum Issues area) Award
+
 ## 2017
 
 * SIGCSE Best Paper (CS Education Research area) Award
