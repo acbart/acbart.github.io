@@ -52,7 +52,13 @@ A. C. Bart, L. Gusukuma, D. Kafura., Pushing My Buttons: Talking about Affordanc
 
 A. C. Bart, D. Kafura., BlockPy Interactive Demo: Dual Text/Block Python Programming Environment for Guided Practice and Data Science (Abstract Only). SIGCSE'17. Seattle, Washington. March 2017.
 
+# Birds of a Feather
+
+A. C. Bart, P. Conrad, M. Hilton, B. Edmison. The Problem of Packaging Curricular Materials. SIGCSE 2019. Minneapolis, MN. February 2019.
+
 # Conference Talks
+
+A. C. Bart. _Curricular Material Packaging Working Group Report_. CSSPLICE'19. Minneapolis, MN. February 27, 2019.
 
 A. C. Bart, C. A. Shaffer. _Instructional Design is to Teaching as Software Engineering is to Programming_. SIGCSE '16. Kansas City, MO. March 2-5, 2016.
 
