@@ -5,6 +5,8 @@ author: Austin Cory Bart
 tags: [cs1, teaching, pedagogy, tips]
 ---
 
+**I made a [better follow-up](https://acbart.github.io/2019/01/01/cs1-lit-review-review/) to this post based on an awesome journal paper that came out around the same time!**
+
 This February marks the 50th SIGCSE conference. Also that month, I will be tasked with rolling out University of Delaware's pilot for a new CS1 course. Naturally, I have been doing a lot of research and reflection on best practices for a CS1 course. I wanted to take some time to jot down some of the big ideas.
 
 * [Active learning](https://acbart.github.io/2018/08/09/active-learning-is-good/) is good. Not necessarily easy or uniform, but good.
