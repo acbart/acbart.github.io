@@ -1,10 +1,13 @@
 My name is Austin Cory Bart, and I'm an Assistant Professor at the University of Delaware. In spring 2017, I received my PhD in Computer Science with a Learning Sciences certification from Virginia Tech.
 
-My [CV](/papers/cv-latex.pdf) as of 2/7/2018.
+Here's some quick links about me:
 
-My [GitHub](https://github.com/acbart).
+* My [CV](/papers/cv-latex.pdf) as of 2/7/2018
+* My [GitHub](https://github.com/acbart)
+* My email is [acbart@udel.edu](acbart@udel.edu)
+* My office is 411 Smith Hall in Newark DE
 
-Check out some of my work:
+Here is my work:
 
 * [CORGIS project](http://think.cs.vt.edu/corgis): A collection of Really Great and Interesting Datasets
 * [BlockPy](http://think.cs.vt.edu/blockpy): A Dual Block/Text Python Coding Environment
