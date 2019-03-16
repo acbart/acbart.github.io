@@ -1,22 +1,25 @@
 My name is Austin Cory Bart, and I'm an Assistant Professor at the University of Delaware. In spring 2017, I received my PhD in Computer Science with a Learning Sciences certification from Virginia Tech.
 
-My [CV](/papers/cv-latex.pdf) as of 9/14/2018.
+My [CV](/papers/cv-latex.pdf) as of 2/7/2018.
 
 My [GitHub](https://github.com/acbart).
 
 Check out some of my work:
 
-* [CORGIS project](http://think.cs.vt.edu/corgis)
-* [BlockPy](http://think.cs.vt.edu/blockpy)
-* [Computational Thinking course (CT@VT)](http://think.cs.vt.edu/ct/)
-* [AnimalScienceCraft](#)
+* [CORGIS project](http://think.cs.vt.edu/corgis): A collection of Really Great and Interesting Datasets
+* [BlockPy](http://think.cs.vt.edu/blockpy): A Dual Block/Text Python Coding Environment
+* [Pedal](https://github.com/acbart/pedal/): A Python Feedback Toolset
+* [CT@VT](http://think.cs.vt.edu/ct/): An introductory Computational Thinking curriculum for non-STEM majors with Data Science.
+* [PythonSneks](https://acbart.github.io/python-sneks/): An open-source introductory Python curriculum for non-CS majors.
+* [Curriculum Materials Packaging](http://cssplice-cm.github.io): A CSSPLICE-funded working group to standardize curriculum material packaging.
 
-I study introductory computing experiences, both in terms of student motivation and cognition. When I teach, I try to keep the following in mind:
-* Have I provided a structure learning experience with clear expectations and instructions?
-* Have I provided opportunities for participation with feedback?
-* Am I supporting students internal agency, sense of usefulness, self-efficacy, personal interests, and perception of my caring?
-* Have I provided sufficient learning resources, including lectures, readings, videos, visualizations, and examples?
-* Have I outlined ways for them to go beyond what is present in the lesson?
+I am interested in Computer Science Education, both as a teacher and a researcher. I ask questions like:
+
+* How do we structure learning experience with clear expectations and instructions?
+* What feedback do my learners need in order to overcome their misconceptions?
+* Does a given material support students' internal agency, sense of usefulness, self-efficacy, personal interests, and perception of my caring?
+* How do we deal with the divergent levels of learners, particularly in introductory classes?
+* How do we design and evaluate learning resources, including lectures, readings, videos, visualizations, and examples?
 * Do I have a systematic way to review, revise, and replicate the learning materials I have created?
 
 My primary research interest is Digital Education, which can be broadly divided into two facets:
@@ -36,6 +39,7 @@ My primary research interest is Digital Education, which can be broadly divided 
 * Novel learning software to teach myriad subjects and skills, especially 21st century skills like Computational Thinking
 * Pedagogy of educational software development
 * Development of abstract frameworks for learning software
+* Standardization of curriculum packaging and OER efforts
 
 Digital Education is not just about pedagogy or technology. This subject lies at the intersection of many disciplines: software engineering, learning sciences, data science, information storage and retrieval, cognitive science, and more. These disciplines are required by Digital Education researchers to develop tools, artifacts, and techniques to aid the educational process.
 
