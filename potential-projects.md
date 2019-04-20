@@ -2,6 +2,8 @@
 
 ## PEDAL
 
+[[Project GitHub]](https://github.com/acbart/pedal)
+
 A Pedagogical Library for analyzing student's Python work and delivering feedback. Uses various tools including a type inferencer, flow analyzer, and code pattern matching.
 
 ## CORGIS
@@ -39,33 +41,12 @@ Developed under [Dr. Eli Tilevich](http://people.cs.vt.edu/~tilevich/),[Dr. Clif
 
 ## Computational Thinking Class
 
+[[Public Website]](https://think.cs.vt.edu/ct/)
+
 I've helped to teach and develop a new course on "Computational Thinking" at Virginia Tech, emphasizing Abstractions and Algorithms through the use of Data Science. This takes advantage of both BlockPy and CORGIS. We've even been written up in a [local newspaper](http://www.roanoke.com/news/education/higher_education/virginia_tech/students-test-new-ways-of-teaching-and-learning-at-virginia/article_dca00832-1328-5e74-9ba5-c0bbf62fb0fb.html)!
 
 ## Introductory Python Curriculum (Project SNEKS)
 
+[[Public Website]](https://acbart.github.io/python-sneks/)
+
 An instructionally designed curriculum for teaching intro python, open-sourced and accessible for instructors to adopt.
-
-# Potential Projects
-
-Are you an undergraduate interested in doing research with me? Here are some topics and areas that are interesting to me.
-
-## Superior Dual Block/Text Interface
-
-Extract out the Block/Text interface from BlockPy into a component called BlockMirror.
-
-## Programming Typing Tutor Game
-
-**On hold while we determine need**
-
-* Students type code from real repositories
-* Based on language-theories of learning to program
-* Uses AST filtering to only provide code suitable to the student's current level
-* [[HCI]] [[Program Analysis]] [[Web Applications]]
-
-## Canvas Management Tools
-
-* Various tools for synchronizing a Canvas course with a Github repo
-* Web interface to simplify comparisons and diff resolutions
-* Interfaces for generating reports, managing TAs, and setting course options.
-
-## Course Format
