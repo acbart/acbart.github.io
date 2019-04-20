@@ -9,12 +9,13 @@ The [TIFA](https://github.com/acbart/pedal/tree/master/pedal/tifa) module of [Pe
 * Open Problems:
   * Currently does not have support for Object-oriented programming and more complicated ideas about namespaces
   * Currently does not have support for type annotations
-* Preferred expertise:
+  * We might need a JavaScript port that can be efficiently kept in sync
+* You'll need to have...
+  * Data Structures (e.g., CISC220)
+* You'll get experience with...
   * Python programming experience
   * Program Analysis experience
   * Experience with Compilers and/or Parsing
-* Necessary expertise:
-  * Data Structures (e.g., CISC220)
 
 ## BlockMirror: Dual Block/Text Interface Component
 
@@ -25,39 +26,68 @@ Extract out the Block/Text interface from BlockPy into a component called BlockM
   * Figure out best possible block representations of Python code to support student learning
   * Support complete Python language and all syntactically valid Python code
   * Integrate ideas from TIFA to have proper types in Blocks
-* Preferred expertise:
-  * JavaScript and Python programming experience
-  * HCI and User Experience Design
-  * Experience with Parsing
-  * Program Analysis experience (for some advanced ideas)
-* Necessary expertise:
+* You'll need to have...
   * Data Structures (e.g., CISC220)
+* You'll get experience with...
+  * JavaScript and Python programming
+  * HCI and User Experience Design
+  * Parsing
+  * Program Analysis
 
 ## Curriculum Packaging Format
 
 How should instructors in Computing bundle up their lessons for sharing, evaluating, adopting, etc.?
 
 * Open Problems:
-  * Designing and developing initial formats
-* Preferred expertise (or what you will learn from working with me):
+  * Designing and developing formats for quizzes, programming assignments, projects, grading rubrics, course staff instructions, in-class lessons, etc.
+  * Protocols for developing lessons, exams, evaluations, etc.
+* You'll need to have...
+  * Introductory programming (e.g., CISC108)
+* You'll get experience with...
   * Markdown
   * Instructional Design
-* Necessary expertise:
-  * Introductory programming (e.g., CISC108)
 
 ## Waltz: Canvas Management Tools
 
-* Various tools for synchronizing a Canvas course with a Github repo
-* Web interface to simplify comparisons and diff resolutions
-* Interfaces for generating reports, managing TAs, and setting course options.
+Various tools for synchronizing a Canvas course with a Github repo
 
+* Open Problems:
+  * Building a web interface to simplify comparisons and diff resolutions
+  * Building interfaces for generating reports, managing TAs, and setting course options.
+
+* You'll need to have...
+  * Software Engineering (e.g., CISC275)
+* You'll get experience with...
+  * Web development
+  * Version Control Systems (like Git)
+  * Web APIs (Canvas, Git)
+  
+## Pedagogical Dataset Development
+
+Build datasets that are meant for classrooms, drawing from extremely varied sources
+
+* Open Problems:
+  * Need a large number of new datasets from any area you can think of (Biology, Law, Literature, etc.)
+  * Need to revise and improve a number of existing datasets
+* You'll get experience with...
+  * Data Science
+  * Data Transformation
+  * Web APIs
+  * Python
+  * User Experience Design
 
 ## Programming Typing Tutor Game
 
 **On hold while we determine need**
 
-* Students type code from real repositories
-* Based on language-theories of learning to program
-* Uses AST filtering to only provide code suitable to the student's current level
-* [[HCI]] [[Program Analysis]] [[Web Applications]]
+An experimental game for improving students' ability to write syntacticaly correct code.
+
+* Open Problems:
+  * Initial version of web game
+* You'll need to have...
+  * Software Engineering (e.g., CISC275)
+* You'll get experience with...
+  * Web development
+  * Educational Game Design
+  * Parsing
 
