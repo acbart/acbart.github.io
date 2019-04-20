@@ -51,7 +51,11 @@ Are you an undergraduate interested in doing research with me? Here are some top
 
 ## Superior Dual Block/Text Interface
 
+Extract out the Block/Text interface from BlockPy into a component called BlockMirror.
+
 ## Programming Typing Tutor Game
+
+**On hold while we determine need**
 
 * Students type code from real repositories
 * Based on language-theories of learning to program
