@@ -6,7 +6,7 @@ A. C. Bart, A. Sarver, M. Friend, L. Cox, [PythonSneks: An Open-Source, Instruct
 
 A. C. Bart, C. A. Shaffer, What Have We Talked About?, SIGCSE'19, Minneapolis, Minnesota. February, 2019.
 
-L. Gusukuma, A. C. Bart, D. Kafura, _Misconception-Driven Feedback: Results from an Experimental Study_, ICER '18, Finland. August, 2018.
+L. Gusukuma, A. C. Bart, D. Kafura, [Misconception-Driven Feedback: Results from an Experimental Study](papers/p160-gusukuma.pdf), ICER '18, Finland. August, 2018.
 
 A. C. Bart, E. Tilevich, C. A. Shaffer, D. Kafura, _Reconciling the Promise and Pragmatics of Enhancing Computing Pedagogy with Data Science_, SIGCSE '18, Baltimore, MD. February, 2018.  
 
