@@ -22,7 +22,6 @@ The [TIFA](https://github.com/acbart/pedal/tree/master/pedal/tifa) module of [Pe
 Extract out the Block/Text interface from BlockPy into a component called BlockMirror.
 
 * Open Problems:
-  * **Beta version currently in development by 475 Team**
   * Figure out best possible block representations of Python code to support student learning
   * Support complete Python language and all syntactically valid Python code
   * Integrate ideas from TIFA to have proper types in Blocks
@@ -61,6 +60,28 @@ Various tools for synchronizing a Canvas course with a Github repo
   * Web development
   * Version Control Systems (like Git)
   * Web APIs (Canvas, Git)
+  * Usability Engineering
+  * Educational theories related to Instructional Design
+  
+## Meta-cognition Interactive Tutor for Programming
+
+Intelligent tutoring system for BlockPy (or other relevant system) that helps support metacognitive behaviors based on a model of students.
+
+* Open problems:
+  * How do we encourage students to write more tests as they debug problems?
+  * How do we encourage students to decompose their solutions into multiple parts?
+  * How do we encourage students to seek and interpret automated feedback?
+  * How do we encourage students to work early, often, and for appropriate time lengths?
+  * How do model students in order to determine optimal intervention times?
+  * How do we intervene to make a measurable impact on student behavior?
+  * What relationship do these metacognitive interventions have on student learning?
+* You'll need to have...
+  * Data Structures (e.g., CISC220)
+* You'll get experience with...
+  * AI techniques
+  * Machine Learning
+  * Web development
+  * Educational Theories related to Meta Cognition
   
 ## Pedagogical Dataset Development
 
