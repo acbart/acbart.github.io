@@ -4,6 +4,9 @@
 
 * "Introduction to Computer Science" (University of Delaware, Fall 2018) 
 * "Introduction to Algorithms" (University of Delaware, Fall 2018)
+ * Example projects:
+  * Build an infographic about NP-Hard problems: [Example 1](files/np-hard-infographic-kbagshaw-clique-cover.pdf), [Example 2](files/np-hard-infographic-abobo-bridge-capacitated-minimum.png)
+  * Peer mock whiteboard interviews
 * "Introduction to Computational Thinking" (Virginia Tech, Fall 2016 - Spring 2018)
 * "Introduction to Programming in Python" (Virginia Tech, Fall 2017 - Spring 2018)
 
