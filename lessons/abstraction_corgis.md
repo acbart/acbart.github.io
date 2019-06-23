@@ -14,7 +14,7 @@ In this lesson, students interact with an online platform for creating visualiza
 
 1. Students will select a dataset from the CORGIS Visualizer, suggest possible concrete abstractions, and identify the kinds of questions that could be answered with those abstractions.
 2. Students will analyze the actual data abstraction that they choose, develop a question related to the dataset, and then create a visualization that answers the question.
-3. Students will suggest possible variations on the abstraction for the real-world thing that it represents, and identify limitations of the abstraction with regards to the questions it can answer.
+3. Students will identify limitations of the abstraction with regards to the questions it can answer.
 
 ## Purpose
 
@@ -190,6 +190,7 @@ Instructions:
 * Tell each group to develop at least one question that this dataset can answer.
 * Tell each group to develop a visualization that answers their question.
 * Tell each group to develop a question that this dataset cannot answer because of its abstraction's limitations.
+* Tell each group to discuss the difference between the abstraction they expected and the actual properties of the abstraction.
 
 Engagement:
 
