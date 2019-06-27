@@ -22,11 +22,15 @@ Visualizations are a powerful way to summarize data into a medium accessible by 
 
 ## Learning Objectives
 
-By the end of this lesson, learners will be able to…
+By the end of this lesson, learners will be able to...
 
 1. Given a real world entity or idea, identify possible data abstractions and the questions answerable with that abstraction.
 2. Given a tool that provides access to a large dataset, describe the abstraction represented by the data.
 3. Given a tool that provides access to a large dataset, explain the kinds of questions such a tool could and could not answer.
+
+You may also cover:
+
+4. Given a graph, students will evaluate the graph for its accuracy, validity, and reasonableness.
 
 ## Standards Alignment
 
@@ -154,6 +158,17 @@ Engagement:
 Goals:
 
 * Have students develop expectations of what a dataset should look like, to eventually contrast with reality.
+
+## 3.5. Visualization Misconceptions (Potentially)
+
+Strategy: Present Content
+
+Duration: 5 minutes
+
+Content:
+
+* You can review the slides that cover common misconceptions about visualizations.
+* TODO: Expand this
 
 ## 4. Demo Visualizer
 
