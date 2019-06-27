@@ -6,7 +6,7 @@ Author: Austin Cory Bart <acbart@udel.edu>
 
 Version: 0.1.0
 
-Duration: 30 minutes
+Duration: 40-50 minutes
 
 ## Overview
 
@@ -138,7 +138,7 @@ Rules:
 
 Strategy: Support Practice
 
-Duration: 5 minutes
+Duration: 10 minutes
 
 Instructions:
 
@@ -168,7 +168,7 @@ Goals:
 
 Strategy: Present Content
 
-Duration: 5 minutes
+Duration: 10 minutes
 
 Content:
 
@@ -187,7 +187,7 @@ Content:
 
 Strategy: Provide Guidance
 
-Duration: 4 minutes
+Duration: 5 minutes
 
 Instructions:
 
@@ -211,7 +211,7 @@ Notes:
 
 Strategy: Support Practice
 
-Duration: 8 minutes
+Duration: 10 minutes
 
 Instructions:
 
@@ -252,7 +252,7 @@ Rules:
 
 Strategy: Wrap-up
 
-Duration: 6 minutes
+Duration: 8 minutes
 
 Alert:
 
