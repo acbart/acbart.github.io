@@ -98,6 +98,11 @@ Duration: 5 minutes
 
 Content:
 
+* **Hook**: First slide is a Corgi surfing on a "tidal wave of data". Here's a chance to connect real world uses of data - either locally or in the world at large.
+  * Self-driving cars use data from their environment to figure out what to do next
+  * Facebook and other social media use user data to target ads
+  * Scientists collect weather data to make forecasts
+  * Teachers collect grades to figure out weaknesses in their teaching
 * **Hook**: Show a slide with all the CORGIS datasets' icons. Then, tell students that we're going to be looking at a big collection of data today, and ask them to start thinking about what they seem personally interested in. Ideally, students should be attracted to the colorful pictures involving cute CORGIS and find things that they think sounds interesting.
 * Inform students that we will be analyzing data abstractions and making visualizations to answer real questions.
 * Remind students about the definition of a data abstraction: a representation of reality with details removed.
@@ -168,7 +173,15 @@ Duration: 5 minutes
 Content:
 
 * You can review the slides that cover common misconceptions about visualizations.
-* TODO: Expand this
+  * **Interaction**: You can ask students to point out issues with the graphs or ask questions here quite a bit.
+* Pirates vs. Global Warming: The goal of this graph is to highlight that it is perfectly possible to make nonsense graphs that look fine. You should be able to see a number of issues when you study the graph.
+  * Correlation vs. Causation
+  * X-Axis makes no sense
+  * How would this data have been collected?
+  * Why are the points annotated with years?
+  * etc.
+* Histogram vs. Line Plots: Students are drawn to line plots, and shy away from histograms. But histograms are the bread and butter of data visualization - they are suitable for any numeric dataset and are a great starting point for understanding numbers. Line plots are only suitable for TRENDS - data ordered by time, by geographic position, or some other continuous type.
+* Histograms vs. Bar Charts: Students confuse these two ideas, but they are distinct. Bar charts are values separated by categories. Technically, histograms are a type of bar chart where the categories are adjacent number ranges. The fact that they are adjacent is why there is no gap between the bars. When you make a bar chart, you MUST have a second column of data (a category) to pair up with the numeric values. For histograms, no second column is needed because the values themselves lead to the categories (by "binning" the numbers into equally sized groups).
 
 ## 4. Demo Visualizer
 
