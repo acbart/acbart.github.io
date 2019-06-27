@@ -4,7 +4,7 @@ Topic: Data Abstractions with the CORGIS Visualizer
 
 Author: Austin Cory Bart <acbart@udel.edu>
 
-Version: 0.1.0
+Version: 0.1.1
 
 Duration: 40-50 minutes
 
