@@ -2,13 +2,28 @@
 
 Are you an undergraduate interested in doing research with me? Here are some topics and areas that are interesting to me.
 
+## Game Dev Library for Skulpt
+
+BlockPy internally uses the Skulpt Javascript-to-Python compiler. This compiler does not support all Python language features, although its functionality continues to grow. I'd like to add a game development library to it.
+
+* Open Problems:
+  * Web graphics interfaces
+  * Pygame interface
+  * Spyral interface
+* You'll need to have...
+  * Data Structures (e.g., CISC220)
+  * Preferably, some web development experience
+* You'll get experience with...
+  * JavaScript and Python programming
+  * Web development
+  * Game Development and Web Graphics
+
 ## Program Analysis in TIFA
 
 The [TIFA](https://github.com/acbart/pedal/tree/master/pedal/tifa) module of [Pedal](https://github.com/acbart/pedal) performs abstract intrepretation of Python code in order to determine common issues and typecheck.
 
 * Open Problems:
   * Currently does not have support for Object-oriented programming and more complicated ideas about namespaces
-  * Currently does not have support for type annotations
   * We might need a JavaScript port that can be efficiently kept in sync
 * You'll need to have...
   * Data Structures (e.g., CISC220)
@@ -19,9 +34,10 @@ The [TIFA](https://github.com/acbart/pedal/tree/master/pedal/tifa) module of [Pe
 
 ## BlockMirror: Dual Block/Text Interface Component
 
-Extract out the Block/Text interface from BlockPy into a component called BlockMirror.
+We recently separated BlockMirror out into its own separate component from BlockPy. We'd like to see it integrated into some new environments, like Jupyter Notebooks.
 
 * Open Problems:
+  * Create a component for Jupyter Notebooks
   * Figure out best possible block representations of Python code to support student learning
   * Support complete Python language and all syntactically valid Python code
   * Integrate ideas from TIFA to have proper types in Blocks
@@ -52,6 +68,7 @@ Various tools for synchronizing a Canvas course with a Github repo
 
 * Open Problems:
   * Building a web interface to simplify comparisons and diff resolutions
+  * Building a Slack interface for running common jobs
   * Building interfaces for generating reports, managing TAs, and setting course options.
 
 * You'll need to have...
