@@ -129,7 +129,7 @@ is_dangerous("Koala") # Error!
 
 This is heavily inspired by the typing style endorsed by the How-to-design-programs curriculum. They would say "A Bear is a string, one of either 'Polar', 'Black', or 'Brown'." Essentially, enumerations and itemizations. Ultimately, I decided against this since it didn't add a whole lot but required additional lessons - I was already changing too much this semester.
 
-# Final Thoughts
+# What Do You Think?
 
 Ultimately, I wrote this blog post to record, publicize, and raise discussion about how I taught Python types this semester. I'm not sure I made the right decision in straying so far from the official Python typing approach. Based on my teaching evaluations and my assessments, I think things mostly went well this semester. But it's almost impossible in education to say that this was the best outcome.
 
