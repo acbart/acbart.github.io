@@ -53,7 +53,7 @@ This would indicate the `check_has_number` function consumes a string and an int
 The first major divergence from regular Python typing was with Lists. I think this actually worked out very well. Here is how you would conventionally typecheck a function that consumes a list of integers:
 
 ```python
-# MyPy
+# Conventional typechecker
 from typing import List
 
 def summate(numbers: List[int]) -> int:
@@ -63,6 +63,7 @@ def summate(numbers: List[int]) -> int:
 However, instead I had students use the following style, which I found much simpler:
 
 ```python
+# My version
 def summate(numbers: [int]) -> int:
     ...
 ```
