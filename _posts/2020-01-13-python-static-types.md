@@ -41,7 +41,7 @@ I only used type annotations for function signatures, not regular variables. Ped
 
 My [PythonSneks curriculum](https://acbart.github.io/python-sneks/) focuses on simple types early on: `int`, `float`, `bool`, `str`, and `None`. Ignoring the latter, these were basically the same as the example given earlier. Here's the signature of a predicate function:
 
-```
+```python
 def check_has_number(text: str, number: int) -> bool:
     pass
 ```
