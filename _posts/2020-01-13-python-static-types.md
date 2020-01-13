@@ -77,6 +77,7 @@ This approach avoids an import and a confusing conversation about "list" vs. "Li
 Now, here's where things will get a little controversial. I wanted students to be able to specify types for a struct-like thing. Historically, I have taught dictionaries as a record/struct/fixed-sized heterogenous data container (among other uses). I explored a few other choices this semester, including regular classes, data classes, and `namedtuple`s. However, I ended up settling on the following syntax:
 
 ```python
+# My style
 Dog = {
     "Name": str,
     "Age": int,
@@ -97,6 +98,7 @@ I don't think it was a failure. Although there was some struggle, many students 
 I made the choice in syntax very close to the assignments' release date, because I had time deciding how things should look. I almost went with the following style instead:
 
 ```python
+# Alternate style considered
 class Dog:
     name: str
     age: int
