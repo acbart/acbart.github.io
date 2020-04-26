@@ -16,7 +16,7 @@ logo:                images/vtCSDepartmentHeadshot-smaller.jpg
 comments: true
 
 description: Github Pages for acbart
-google_analytics: 
+google_analytics: UA-9632407-1
 show_downloads: false
 theme: jekyll-theme-minimal
 
