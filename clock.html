@@ -55,7 +55,7 @@ let EVENTS = {
     3: [
         {name: "CISC108 010 Lecture", day: 3, start: {hour: 10, minute: 10}, end: {hour: 11, minute: 0}},
         {name: "CISC108 011 Lecture", day: 3, start: {hour: 11, minute: 15}, end: {hour: 12, minute: 5}},
-        {name: "CISC108 012 Lecture", day: 3, start: {hour: 1, minute: 25}, end: {hour: 2, minute: 15}},
+        {name: "CISC108 012 Lecture", day: 3, start: {hour: 13, minute: 25}, end: {hour: 14, minute: 15}},
     ],
     // Thursday
     4: [
@@ -65,7 +65,7 @@ let EVENTS = {
     5: [
         {name: "CISC108 010 Lecture", day: 5, start: {hour: 10, minute: 10}, end: {hour: 11, minute: 0}},
         {name: "CISC108 011 Lecture", day: 5, start: {hour: 11, minute: 15}, end: {hour: 12, minute: 5}},
-        {name: "CISC108 012 Lecture", day: 5, start: {hour: 1, minute: 25}, end: {hour: 2, minute: 15}},
+        {name: "CISC108 012 Lecture", day: 5, start: {hour: 13, minute: 25}, end: {hour: 14, minute: 15}},
     ]
 };
 
@@ -105,12 +105,12 @@ $(document).ready(function() {
         let today = new Date();
         // Get current event
         let daysEvents = EVENTS[today.getDay()];
-        let goalEvent = {name: "Weekend"};
+        let goalEvent = {name: "Relax"};
         let goalTime = null;
         let mode = "relax";
         if (daysEvents !== undefined) {
             goalEvent = {name: "All done for the day"};
-            for (let i=0; i<= daysEvents.length; i+= 1) {
+            for (let i=0; i< daysEvents.length; i+= 1) {
                 let event = daysEvents[i];
                 start = makeTime(today, event.start);
                 end = makeTime(today, event.end);
