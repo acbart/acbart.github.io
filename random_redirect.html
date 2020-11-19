@@ -54,7 +54,8 @@ let urls = { "aiid": [
 "https://incidentdatabase.ai/discover/index.html?s=&incident_id=26"
 ]};
 
-window.location.replace(urls[question]);
+const randomURL = urls[question][Math.floor(Math.random() * urls[question].length)];
+window.location.replace(randomURL);
 
 </script>
 
