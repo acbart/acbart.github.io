@@ -1,8 +1,10 @@
 My name is Austin Cory Bart, and I'm an Assistant Professor at the University of Delaware. In spring 2017, I received my PhD in Computer Science with a Learning Sciences certification from Virginia Tech.
 
+I like to make educational software. I enjoy teaching. I also do research on how people learn.
+
 Here's some quick links about me:
 
-* My [CV](/papers/cv-latex.pdf) as of 2/7/2018
+* My [CV](/papers/Bart_CV.pdf) as of 11/29/2021
 * My [GitHub](https://github.com/acbart)
 * My email is [acbart@udel.edu](acbart@udel.edu)
 * My office is 411 Smith Hall in Newark DE
