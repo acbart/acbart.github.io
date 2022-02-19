@@ -4,7 +4,7 @@ Hi!
 
 Do you like Escape Rooms? I sure do. While we're in Providence RI for SIGCSE'22, I plan to do an Escape Room. If you'd like to join me, keep reading!
 
-* **Sign-up Form**: <https://docs.google.com/forms/d/e/1FAIpQLSceOIlDXM7wcp0wQw4LEJK7uewNZM6JBvVdVqhTtX9oaBQV9w/viewform?usp=sf_link>
+* **Sign-up Form**: <https://forms.gle/uAL9vRNxVATxydPw7>
 * **Where**: The Great Escape Room
 * **URL**: <https://thegreatescaperoom.com/providence>
 * **How Far**: 7 minute walk from the Conference Center <https://goo.gl/maps/RUsjD8pQa3Mpk3dq5>
