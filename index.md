@@ -11,7 +11,7 @@ Here's some quick links about me:
 
 Here is my work:
 
-* [React TypeScript Time](https://frontend-fun.github.io/react-hooks-typescript-tome/)
+* [React TypeScript Tome](https://frontend-fun.github.io/react-hooks-typescript-tome/)
 * [Runtime Case Builder](https://acbart.github.io/runtime-case-builder/?preload=RCB_find_with_break_dynamic.json)
 * [Let's Learn Algorithms with AlgoTutorBot](http://algotutorbot.com): An entire course as an educational escape room!
 * [CORGIS project](http://think.cs.vt.edu/corgis): A collection of Really Great and Interesting Datasets
