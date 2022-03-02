@@ -74,8 +74,6 @@ I have some hopes that Designer might be more broadly useful than as just a rese
 
 One area I am particularly excited about is the recent integration of Designer into [BlockPy](https://blockpy.cis.udel.edu/assignments/load?course_id=1&assignment_group_id=138), my web-based Python library. This dovetails with other efforts in the works to build the next generation version of BlockPy - more details on that to come, since we have only just started the efforts.
 
-![Designer Deployed in BlockPy](/images/designer-blockpy.gif)
-
 # SIGCSE'22
 
 If you're at SIGCSE'22, I hope you'll drop by our presentation. You might also want to check out my other presentation about the [weirdest algorithms course I ever taught](http://algotutorbot.com). That is a more involved story for another day, although I think that site covers all the important parts. But that's unrelated to Designer, which I hope you also want to talk about at SIGCSE.
