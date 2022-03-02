@@ -1,0 +1,182 @@
+<html>
+
+<head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<style>
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    display: table;
+}
+
+.center {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.column {
+    float: left;
+    border-left: 1px solid lightgray;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Clear floats after the columns */
+
+.bigger p {
+    font-size: 30pt;
+}
+.big p, .big li{
+    font-size: 16pt;
+}
+</style>
+<script>
+let EVENTS = {
+    // Monday
+    1: [
+        {name: "CISC108 010 Lecture", day: 3, start: {hour: 10, minute: 10}, end: {hour: 11, minute: 0}},
+        {name: "CISC108 011 Lecture", day: 3, start: {hour: 11, minute: 15}, end: {hour: 12, minute: 5}},
+        {name: "Faculty Meeting", day: 3, start: {hour: 12, minute: 15}, end: {hour: 13, minute: 20}},
+        {name: "CISC108 012 Lecture", day: 3, start: {hour: 13, minute: 25}, end: {hour: 14, minute: 15}},
+        {name: "TA Staff Team A", start: {hour: 14, minute: 35}, end: {hour: 15, minute: 20}},
+    ],
+    // Tuesday
+    2: [
+        {name: "CISC108 Honors Lecture", start: {hour: 11, minute: 0}, end: {hour: 12, minute: 15}},
+        {name: "TA Staff Team B", start: {hour: 13, minute: 00}, end: {hour: 13, minute: 45}},
+        {name: "TA Staff Team H", start: {hour: 14, minute: 00}, end: {hour: 14, minute: 45}},
+        {name: "TA Staff Team C", start: {hour: 16, minute: 00}, end: {hour: 16, minute: 45}},
+    ],
+    // Wednesday
+    3: [
+        {name: "CISC108 010 Lecture", day: 3, start: {hour: 10, minute: 10}, end: {hour: 11, minute: 0}},
+        {name: "CISC108 011 Lecture", day: 3, start: {hour: 11, minute: 15}, end: {hour: 12, minute: 5}},
+        {name: "CIS Teaching Meeting", day: 3, start: {hour: 12, minute: 30}, end: {hour: 13, minute: 20}},
+        {name: "CISC108 012 Lecture", day: 3, start: {hour: 13, minute: 25}, end: {hour: 14, minute: 15}},
+    ],
+    // Thursday
+    4: [
+        {name: "CISC108 Honors Cohortwork", day: 4, start: {hour: 11, minute: 0}, end: {hour: 12, minute: 15}},
+    ],
+    // Friday
+    5: [
+        {name: "CISC108 010 Lecture", day: 5, start: {hour: 10, minute: 10}, end: {hour: 11, minute: 0}},
+        {name: "CISC108 011 Lecture", day: 5, start: {hour: 11, minute: 15}, end: {hour: 12, minute: 5}},
+        {name: "SIGCSE Seminar", day: 3, start: {hour: 12, minute: 30}, end: {hour: 13, minute: 20}},
+        {name: "CISC108 012 Lecture", day: 5, start: {hour: 13, minute: 25}, end: {hour: 14, minute: 15}},
+    ]
+};
+
+var START_HOUR=11, START_MINUTE=15,
+    END_HOUR=12, END_MINUTE=05;
+    
+    
+var formatAMPM = function formatAMPM(d) {
+    var h = d.getHours();
+    return (h % 12 || 12)
+        + ':' + d.getMinutes().toString().padStart(2, '0')
+        + ' ' + (h < 12 ? 'A' : 'P') + 'M';
+};
+var formatDuration = function formatDuration(delta) {
+    if (delta < 60) {
+        return delta + " seconds";
+    } else if (delta < 60*10) {
+        return Math.floor(delta/60) + " minutes, " + Math.floor(delta%60) + " seconds";
+    } else if (delta < 60*60) {
+        return Math.round(delta/60) + " minutes";
+    } else {
+        return Math.floor(delta/60/60) + " hours, " + Math.floor(delta/60 % 60) + " minutes";
+    }
+};
+
+function makeTime(today, when) {
+    let eventTime = new Date(today.getTime());
+    eventTime.setHours(when.hour);
+    eventTime.setMinutes(when.minute);
+    eventTime.setSeconds(0);
+    return eventTime;
+}
+
+$(document).ready(function() {
+    function startTime() {
+        // Get current time
+        let today = new Date();
+        // Get current event
+        let daysEvents = EVENTS[today.getDay()];
+        let goalEvent = {name: "Relax"};
+        let goalTime = null;
+        let mode = "relax";
+        if (daysEvents !== undefined) {
+            goalEvent = {name: "All done for the day"};
+            for (let i=0; i< daysEvents.length; i+= 1) {
+                let event = daysEvents[i];
+                start = makeTime(today, event.start);
+                end = makeTime(today, event.end);
+                if (today < start) {
+                    goalEvent = event;
+                    mode = "waiting";
+                    goalTime = start;
+                    break;
+                } else if (today < end) {
+                    goalEvent = event;
+                    mode = "active";
+                    goalTime = end;
+                    break;
+                }
+            }
+        }
+        let timeGap = 0;
+        if (mode !== "relax") {
+            timeGap = (goalTime.getTime() - today.getTime())/1000;
+        }
+        document.getElementById('current-time').innerHTML = formatAMPM(today);
+        $("#event-name").text(goalEvent.name);
+        if (mode === "waiting") {
+            $('#time-till').text(formatDuration(timeGap));
+            $('#time-left-message').hide();
+            $('#time-till-message').show();
+            $('#time-over-message').hide();
+        } else if (mode === "active") {
+            $('#time-left').text(formatDuration(timeGap));
+            $('#time-left-message').show();
+            $('#time-till-message').hide();
+            $('#time-over-message').hide();
+        } else {
+            $('#time-left-message').hide();
+            $('#time-till-message').hide();
+            $('#time-over-message').show();
+        }
+        t = setTimeout(function() {
+            startTime()
+        }, 500);
+    }
+    startTime();
+});
+</script>
+
+</head>
+
+<body>
+
+  <div class="center">
+    <div class='bigger'>
+    <p>Current time is <span id='current-time'>X</span></p>
+    <p id='time-till-message'><span id='time-till'>Y</span> until</p>
+    <p id='time-left-message'><span id='time-left'>Z</span> left in</p>
+    <p id='time-over-message'>The meetings have ended. Relax.</p>
+    <p id='event-name'></p>
+  </div>
+</div>
+
+</body>
+
+</html>
