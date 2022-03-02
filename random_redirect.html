@@ -1,0 +1,70 @@
+<html>
+
+<!-- Why are you looking at the source code? Don't you have an assignment to complete?
+
+I wrote this in like 20 minutes, don't expect it to be pretty... -->
+
+<head>
+<style>
+div {
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+    border: 1px solid lightgray;
+    padding: 4px;
+}
+
+hr {
+    width: 60%;
+}
+
+pre {
+    white-space: pre-wrap;
+}
+
+</style>
+
+<script>
+
+const urlParams = new URLSearchParams(window.location.search);
+const question = urlParams.get('question');
+
+let urls = { "aiid": [
+// Google Homosexuality
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=14",
+// Youtube Recommendation
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=1",
+// Robot Bear Spray
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=2",
+// Uber Self-driving Car Killer
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=20",
+// Racist Chatbot
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=6",
+// Racist Sentencing Algorithms
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=11",
+// Racist Image Detection
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=16",
+// Sexist Image Search
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=18",
+// Bad Google Maps Directions
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=22",
+// Killer Industrial Robot,
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=24",
+// Tricking Face ID,
+"https://incidentdatabase.ai/discover/index.html?s=&incident_id=26"
+]};
+
+const randomURL = urls[question][Math.floor(Math.random() * urls[question].length)];
+window.location.replace(randomURL);
+
+</script>
+
+</head>
+
+<body>
+
+<!--
+Ah well, I guess I couldn't stop you. I hope you learned something. Now get back to work!
+-->
+</body>
+</html>
