@@ -9,8 +9,9 @@ Do you like Escape Rooms? I sure do. While we're in Providence RI for SIGCSE'22,
 * **URL**: <https://thegreatescaperoom.com/providence>
 * **How Far**: 7 minute walk from the Conference Center <https://goo.gl/maps/RUsjD8pQa3Mpk3dq5>
 * **Cost**: $33 per adults, $29.70 for students/veterans
-* **When**: 2:40pm on Saturday afternoon
+* **When**: The escape starts promptly at 2:40pm on Saturday afternoon and ends an hour later
 * **Which Room**: Poker Night at the President's Bunker (Up to 10 Players) <https://thegreatescaperoom.com/providence/rooms/bunker>
+* **Meeting**: If you wish to walk with us, we will depart from where the Registration Booth was in the Rhode Island Convention Center at 2:25pm
 
 Never done an Escape Room before? You can learn more about them here: <https://en.wikipedia.org/wiki/Escape_room>
 
