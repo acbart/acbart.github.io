@@ -1,0 +1,57 @@
+---
+layout: post
+title: Static Types in Python - 3 Years Later
+author: Austin Cory Bart
+tags: [python, static, types, bakery, type systems]
+---
+
+Almost exactly 3 years ago, I wrote [a blog post about the static type system](http://acbart.github.io/2020/01/13/python-static-types/) I was using in my Introductory Python class.
+Back then, that was the PythonSneks curriculum in its fourth or so iteration, nearing about halfway through its life.
+That was my first semester using static types in Python, which was a pretty exciting change at the time.
+
+Now, we are three years later, on the other side of the pandemic. I've taught CISC108 nine times now, branched out to CISC106, and had literally thousands of students use my lessons. The PythonSneks curriculum is officially replaced by the first version of my new effort: The Bakery Curriculum (more on that in a future blog post soon). So the time feels right to give an update on the use of static types in Python.
+
+# Static Types Are Great
+
+First of all, static types are great. If you teach introductory programming at the university level in Python, then you should be requiring static typing. It removes an entire class of problems that students have. I think it makes novices think more structurally about data, and confront the idea of abstraction head-on. They can't pretend to know what kind of data they are working with - they have to be able to articulate it.
+
+A major advantage of my curriculum is that we use Pedal, which can trivially typecheck code and enforce static types. I use it to require students to define the full signature of their function definitions, among other things. Historically, this was optional on exams, but now I fully require parameter types and return types. They get errors, otherwise!
+
+# Type Hinting Simple Data
+
+To review, the Bakery curriculum (like PythonSneks before it) focuses on simple types early on: `int`, `float`, `bool`, `str`, and the `None` type. Here’s the stub of a predicate function:
+
+```python
+def check_has_number(text: str, number: int) -> bool:
+    pass
+```
+
+This would indicate the check_has_number function consumes a string and an integer, and produces a boolean.
+
+# Type Hinting Lists
+
+The first major divergence from regular Python typing was with Lists. Here is how you would conventionally typecheck a function that consumes a list of integers:
+
+```python
+# Conventional typechecker
+from typing import List
+
+def summate(numbers: List[int]) -> int:
+    ...
+```
+
+I consider this unreasonable. I teach students importing, but I'm not cognitively overloading them *just* to have static types. So in PythonSneks we introduced this custom syntax.
+
+```python
+# The PythonSneks version
+def summate(numbers: [int]) -> int:
+    ...
+```
+
+However, thanks to the new version of Python, we are now able to write the syntax I always wanted in my heart:
+
+```python
+# The Bakery version (matches everyone's version)
+def summate(numbers: list[int]) -> int:
+    ...
+```
