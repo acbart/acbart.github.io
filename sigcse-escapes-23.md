@@ -1,4 +1,4 @@
-# SIGCSE Escapes
+# SIGCSE'23 Escapes
 
 Hi!
 
