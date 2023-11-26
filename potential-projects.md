@@ -39,14 +39,18 @@ Developed under [Dr. Eli Tilevich](http://people.cs.vt.edu/~tilevich/),[Dr. Clif
 
 [BlockPy](http://think.cs.vt.edu/blockpy) is a web-based Python environment that lets you work with blocks, text, or both. Designed for Data Science and equipped with powerful tools like the State Explorer and Guided Feedback, the goal of BlockPy is to let you solve authentic, real-world problems.
 
-## Computational Thinking Class
+## Bakery
 
-[[Public Website]](https://think.cs.vt.edu/ct/)
+[Bakery](https://python-bakery.github.io/): An open-source, teacher-friendly Python curriculum for CS1, batteries included. Formerly PythonSneks.
 
-I've helped to teach and develop a new course on "Computational Thinking" at Virginia Tech, emphasizing Abstractions and Algorithms through the use of Data Science. This takes advantage of both BlockPy and CORGIS. We've even been written up in a [local newspaper](http://www.roanoke.com/news/education/higher_education/virginia_tech/students-test-new-ways-of-teaching-and-learning-at-virginia/article_dca00832-1328-5e74-9ba5-c0bbf62fb0fb.html)!
+## Designer
 
-## Introductory Python Curriculum (Project SNEKS)
+[Designer](https://designer-edu.github.io/): A user-friendly Python game dev library that teaches best practices
 
-[[Public Website]](https://acbart.github.io/python-sneks/)
+## Drafter
 
-An instructionally designed curriculum for teaching intro python, open-sourced and accessible for instructors to adopt.
+[Drafter](https://drafter-edu.github.io/drafter/): A user-friendly Python web server library that teaches best practices
+
+## React TypeScript Tome
+
+[React TypeScript Tome](https://frontend-fun.github.io/react-hooks-typescript-tome/]: A textbook on how to websites in React and TypeScript, with interactive runnable code examples.
