@@ -62,6 +62,21 @@ An evaluation of the [Bakery]() curriculum revealed that we have not done enough
 * You'll get experience with...
  * Curriculum design
  * Equity and diversity issues in CS
+
+## Drafter Game Library
+
+The Drafter game library is one of my newest attempts to make a novice-friendly library in Python that demonstrates "the right things to do" with things like state, decomposition, and testing.
+
+* Open Problems:
+  * What features still need to be added?
+  * How do we streamline the authoring of test cases?
+  * How can we make it trivial to deploy Drafter websites within the browser?
+* You'll need to have...
+  * Preferably, some web development experience
+* You'll get experience with...
+  * Web Development
+  * API Designer
+  * Python, JavaScript, HTML, CSS
  
 ## Designer Game Library for Skulpt
 
