@@ -1,5 +1,17 @@
 # Completed Projects
 
+## Computational Thinking Class
+
+[[Public Website]](https://think.cs.vt.edu/ct/)
+
+I've helped to teach and develop a new course on "Computational Thinking" at Virginia Tech, emphasizing Abstractions and Algorithms through the use of Data Science. This takes advantage of both BlockPy and CORGIS. We've even been written up in a [local newspaper](http://www.roanoke.com/news/education/higher_education/virginia_tech/students-test-new-ways-of-teaching-and-learning-at-virginia/article_dca00832-1328-5e74-9ba5-c0bbf62fb0fb.html)!
+
+## Introductory Python Curriculum (Project SNEKS)
+
+[[Public Website]](https://acbart.github.io/python-sneks/)
+
+An instructionally designed curriculum for teaching intro python, open-sourced and accessible for instructors to adopt. Replaced by Python Bakery (see Ongoing Projects).
+
 ## Platipy
 
 ![](/images/platipy-thumb.png)
