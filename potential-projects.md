@@ -53,4 +53,4 @@ Developed under [Dr. Eli Tilevich](http://people.cs.vt.edu/~tilevich/),[Dr. Clif
 
 ## React TypeScript Tome
 
-[React TypeScript Tome](https://frontend-fun.github.io/react-hooks-typescript-tome/]: A textbook on how to websites in React and TypeScript, with interactive runnable code examples.
+[React TypeScript Tome](https://frontend-fun.github.io/react-hooks-typescript-tome/): A textbook on how to websites in React and TypeScript, with interactive runnable code examples.
