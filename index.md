@@ -1,4 +1,4 @@
-My name is Austin Cory Bart, and I'm an Assistant Professor at the University of Delaware. In spring 2017, I received my PhD in Computer Science with a Learning Sciences certification from Virginia Tech.
+My name is Austin Cory Bart, and I'm an Associate Professor at the University of Delaware. I received my PhD in Computer Science with a Learning Sciences certification from Virginia Tech.
 
 I like to make educational software. I enjoy teaching. I also do research on how people learn.
 
@@ -11,15 +11,17 @@ Here's some quick links about me:
 
 Here is my work:
 
-* [React TypeScript Tome](https://frontend-fun.github.io/react-hooks-typescript-tome/)
-* [Runtime Case Builder](https://acbart.github.io/runtime-case-builder/?preload=RCB_find_with_break_dynamic.json)
-* [Let's Learn Algorithms with AlgoTutorBot](http://algotutorbot.com): An entire course as an educational escape room!
-* [CORGIS project](http://think.cs.vt.edu/corgis): A collection of Really Great and Interesting Datasets
 * [BlockPy](http://think.cs.vt.edu/blockpy): A Dual Block/Text Python Coding Environment
 * [Pedal](https://github.com/acbart/pedal/): A Python Feedback Toolset
+* [Bakery](https://python-bakery.github.io/): An open-source, teacher-friendly Python curriculum for CS1, batteries included. Formerly PythonSneks.
+* [Designer](https://designer-edu.github.io/): A user-friendly Python game dev library that teaches best practices
+* [Drafter](https://drafter-edu.github.io/drafter/): A user-friendly Python web server library that teaches best practices
+* [React TypeScript Tome](https://frontend-fun.github.io/react-hooks-typescript-tome/): A textbook on how to websites in React and TypeScript, with interactive runnable code examples.
+* [Runtime Case Builder](https://acbart.github.io/runtime-case-builder/?preload=RCB_find_with_break_dynamic.json): An interactive tool for visualizing how long Python programs take to execute, in steps.
+* [Let's Learn Algorithms with AlgoTutorBot](http://algotutorbot.com): An entire course as an educational escape room!
+* [CORGIS project](http://think.cs.vt.edu/corgis): A collection of Really Great and Interesting Datasets
 * [CT@VT](http://think.cs.vt.edu/ct/): An introductory Computational Thinking curriculum for non-STEM majors with Data Science.
-* [PythonSneks](https://acbart.github.io/python-sneks/): An open-source introductory Python curriculum for non-CS majors.
-* [Curriculum Materials Packaging](http://cssplice-cm.github.io): A CSSPLICE-funded working group to standardize curriculum material packaging.
+* [Curriculum Materials Packaging](http://cssplice-cm.github.io/): A CSSPLICE-funded working group to standardize curriculum material packaging.
 
 I am interested in Computer Science Education, both as a teacher and a researcher. I ask questions like:
 

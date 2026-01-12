@@ -2,14 +2,90 @@
 
 Are you an undergraduate interested in doing research with me? Here are some topics and areas that are interesting to me.
 
-## Game Dev Library for Skulpt
+## CS1 Data Analysis/Visualization
 
-BlockPy internally uses the Skulpt Javascript-to-Python compiler. This compiler does not support all Python language features, although its functionality continues to grow. I'd like to add a game development library to it.
+We've recorded a large number of coding snapshots from students completing problems in BlockPy across multiple semesters and courses. We get fine grained data on what students write, when they work, their demographics, their performance on exams, etc. All of this data is already cleaned and anonymized, and now we are looking to do various kinds of interesting analyses with it.
 
 * Open Problems:
-  * Web graphics interfaces
-  * Pygame interface
-  * Spyral interface
+  * Is our feedback actually effective?
+  * What can we infer from program analysis using [Pedal](https://github.com/acbart/pedal)?
+  * Can we detect cheaters and students who are using the platform wrong?
+  * What kinds of interventions should we enact?
+  * What kinds of visualizations would help teachers and students?
+ * You'll need to have...
+  * Data Structures (e.g., CISC220)
+  * Some basic statistics
+ * You'll get experience with...
+  * Data Science
+  * Program analysis
+  * HCI/Visualization
+ * This is probably very publishable!
+
+## CORGIS Pedagogical Dataset Development
+
+Build and maintain datasets that are meant for classrooms, drawing from extremely varied sources. This is basically my most popular project and there's a lot of good work to be done. I'm not sure how publishable it is, but this is something that a lot of folks use directly and could really benefit from some good work!
+
+* Open Problems:
+  * Need a large number of new datasets from any area you can think of (Biology, Law, Literature, etc.)
+  * Need to revise and improve a number of existing datasets
+* You'll get experience with...
+  * Data Science
+  * Data Transformation
+  * Web APIs
+  * Python
+  * User Experience Design
+
+## Waltz: Canvas Management Tools
+
+Various tools for synchronizing a Canvas course with a Github repo
+
+* Open Problems:
+  * Building a web interface to simplify comparisons and diff resolutions
+  * Building a chat (Discord?) interface for running common jobs
+  * Building interfaces for generating reports, managing TAs, and setting course options.
+
+* You'll need to have...
+  * Software Engineering (e.g., CISC275)
+* You'll get experience with...
+  * Web development
+  * Version Control Systems (like Git)
+  * Web APIs (Canvas, Git)
+  * Usability Engineering
+  * Educational theories related to Instructional Design
+ 
+## Cultural and Equity Improvements for Bakery
+
+An evaluation of the [Bakery]() curriculum revealed that we have not done enough to foster equity, creativity, community, and culture. We need to revisit the curriculum in that lens.
+
+* Open Problems:
+ * How do we create lessons, problems, and projects that are in line with the [TEC](https://dl.acm.org/doi/pdf/10.1145/3371155) (Accessibility, Equity, and Content) Rubric?
+* You'll get experience with...
+ * Curriculum design
+ * Equity and diversity issues in CS
+
+## Drafter Game Library
+
+The Drafter game library is one of my newest attempts to make a novice-friendly library in Python that demonstrates "the right things to do" with things like state, decomposition, and testing.
+
+* Open Problems:
+  * What features still need to be added?
+  * How do we streamline the authoring of test cases?
+  * How can we make it trivial to deploy Drafter websites within the browser?
+* You'll need to have...
+  * Preferably, some web development experience
+* You'll get experience with...
+  * Web Development
+  * API Designer
+  * Python, JavaScript, HTML, CSS
+ 
+## Designer Game Library for Skulpt
+
+BlockPy internally uses the Skulpt Javascript-to-Python compiler. This compiler does not support all Python language features, although its functionality continues to grow. I'd like to add a game development library to it for Designer.
+
+* Open Problems:
+  * How do we make a Skulpt-compatible implementation of Designer?
+  * How do we increase performance of the library?
+  * What should the Designer interface look like?
 * You'll need to have...
   * Data Structures (e.g., CISC220)
   * Preferably, some web development experience
@@ -17,20 +93,6 @@ BlockPy internally uses the Skulpt Javascript-to-Python compiler. This compiler 
   * JavaScript and Python programming
   * Web development
   * Game Development and Web Graphics
-
-## Program Analysis in TIFA
-
-The [TIFA](https://github.com/acbart/pedal/tree/master/pedal/tifa) module of [Pedal](https://github.com/acbart/pedal) performs abstract intrepretation of Python code in order to determine common issues and typecheck.
-
-* Open Problems:
-  * Currently does not have support for Object-oriented programming and more complicated ideas about namespaces
-  * We might need a JavaScript port that can be efficiently kept in sync
-* You'll need to have...
-  * Data Structures (e.g., CISC220)
-* You'll get experience with...
-  * Python programming experience
-  * Program Analysis experience
-  * Experience with Compilers and/or Parsing
 
 ## BlockMirror: Dual Block/Text Interface Component
 
@@ -61,26 +123,8 @@ How should instructors in Computing bundle up their lessons for sharing, evaluat
 * You'll get experience with...
   * Markdown
   * Instructional Design
-
-## Waltz: Canvas Management Tools
-
-Various tools for synchronizing a Canvas course with a Github repo
-
-* Open Problems:
-  * Building a web interface to simplify comparisons and diff resolutions
-  * Building a Slack interface for running common jobs
-  * Building interfaces for generating reports, managing TAs, and setting course options.
-
-* You'll need to have...
-  * Software Engineering (e.g., CISC275)
-* You'll get experience with...
-  * Web development
-  * Version Control Systems (like Git)
-  * Web APIs (Canvas, Git)
-  * Usability Engineering
-  * Educational theories related to Instructional Design
   
-## Meta-cognition Interactive Tutor for Programming
+## Better Feedback in BlockPy
 
 Intelligent tutoring system for BlockPy (or other relevant system) that helps support metacognitive behaviors based on a model of students.
 
@@ -100,32 +144,3 @@ Intelligent tutoring system for BlockPy (or other relevant system) that helps su
   * Web development
   * Educational Theories related to Meta Cognition
   
-## Pedagogical Dataset Development
-
-Build datasets that are meant for classrooms, drawing from extremely varied sources
-
-* Open Problems:
-  * Need a large number of new datasets from any area you can think of (Biology, Law, Literature, etc.)
-  * Need to revise and improve a number of existing datasets
-* You'll get experience with...
-  * Data Science
-  * Data Transformation
-  * Web APIs
-  * Python
-  * User Experience Design
-
-## Programming Typing Tutor Game
-
-**On hold while we determine need**
-
-An experimental game for improving students' ability to write syntacticaly correct code.
-
-* Open Problems:
-  * Initial version of web game
-* You'll need to have...
-  * Software Engineering (e.g., CISC275)
-* You'll get experience with...
-  * Web development
-  * Educational Game Design
-  * Parsing
-
