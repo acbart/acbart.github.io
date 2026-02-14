@@ -1,5 +1,7 @@
 # SIGCSE'25 Escapes
 
+**Unfortunately, due to inadequate escape rooms in the conference vicinity, SIGCSE'25 Escapes was cancelled. Better luck in St. Louis!** 
+
 Hi!
 
 Do you like Escape Rooms? I sure do. While we're in Pittsburgh for SIGCSE'25, I plan to do an Escape Room. If you'd like to join me, keep reading!
