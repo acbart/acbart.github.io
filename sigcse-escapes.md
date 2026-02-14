@@ -26,7 +26,7 @@ I have no idea how many folks will be interested in this, so I can't make a prom
 
 ## Previous Years
 
-* [SIGCSE'25 Escapes](./sigcse-escapes-25) (Pittsburgh - Cancelled)
-* [SIGCSE'24 Escapes](./sigcse-escapes-24) (Portland)
-* [SIGCSE'23 Escapes](./sigcse-escapes-23) (Toronto)
-* [SIGCSE'22 Escapes](./sigcse-escapes-22) (Providence)
+* [SIGCSE'25 Escapes](/sigcse-escapes-25) (Pittsburgh - Cancelled)
+* [SIGCSE'24 Escapes](/sigcse-escapes-24) (Portland)
+* [SIGCSE'23 Escapes](/sigcse-escapes-23) (Toronto)
+* [SIGCSE'22 Escapes](/sigcse-escapes-22) (Providence)
