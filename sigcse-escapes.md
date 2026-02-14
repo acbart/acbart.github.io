@@ -18,7 +18,7 @@ It sounds like there'll be a lot of Cardinals and Baseball themed trivia, which 
 
 If you're interested in joining me, you can sign up using the form above. You can also use this form to signal more general interest, if you aren't sure you can make it.
 
-I have no idea how many folks will be interested in this, so I can't make a promise about there being space for everyone. I can only guarantee that I will be there. I'll do my best to coordinate things with whoever fills out the form via text once we get to SIGCSE!
+I have no idea how many folks will be interested in this, so I can't make a promise about there being space for everyone. I can only guarantee that I will be there. I'll do my best to coordinate things with whoever fills out the form via Group.Me once we get to SIGCSE!
 
 ---
 
