@@ -1,3 +1,7 @@
+---
+exclude_from_nav: true
+---
+
 # SIGCSE'22 Escapes
 
 Hi!

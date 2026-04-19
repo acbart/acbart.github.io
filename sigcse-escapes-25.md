@@ -1,4 +1,10 @@
+---
+exclude_from_nav: true
+---
+
 # SIGCSE'25 Escapes
+
+**Unfortunately, due to inadequate escape rooms in the conference vicinity, SIGCSE'25 Escapes was cancelled. Better luck in St. Louis!** 
 
 Hi!
 
