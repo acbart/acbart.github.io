@@ -18,7 +18,7 @@ Let us say that you were developing a new course, and needed to decide on the gr
 
 Let us say that you cannot trust the unproctored grades, for whatever reason. Perhaps students are using AI tools to complete their homework, or they are sharing answers with each other, or they found people willing to complete the work for money, or the answers are on Cheggs, or your arch-nemesis in the department is sabotaging your course by giving out answers, or whatever. The point is that you believe that students who do not understand the material are getting perfect scores on the unproctored assignments.
 
-Let us say further, for the sake of argument, that you can trust the unproctored grades. We'll take for granted that you have created good exams (following proper instructional design methodology, conducted cognitive task analyses, etc.), that you have a high-quality testing center that provides a secure environment for students to take exams, and you were actively engaged with your students during lecture activities with a good team of TAs. So you have some confidence that the proctored grades are a valid measure of your students' learning.
+Let us say further, for the sake of argument, that you can trust the proctored grades. We'll take for granted that you have created good exams (following proper instructional design methodology, conducted cognitive task analyses, etc.), that you have a high-quality testing center that provides a secure environment for students to take exams, and you were actively engaged with your students during lecture activities with a good team of TAs. So you have some confidence that the proctored grades are a valid measure of your students' learning.
 
 Next, let us say that your academic program has a grade scale much like mine:
 
