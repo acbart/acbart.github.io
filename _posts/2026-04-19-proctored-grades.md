@@ -79,7 +79,7 @@ Instead of adjusting the proctored weight, you could also build an exam where th
 
 I am not here in this part of the blog post to tell you what thresholds to use or how you should run your course. I just wanted to highlight that the math here may be a bit surprising: if you want to fail students who are getting perfect unproctored grades, you need to set the weight of the proctored assignments to be pretty high.
 
-# Conclusion
+# Up on the Soapbox
 
 Okay so in _this part_ of the blog post, I'm telling you to set higher thresholds. If you're using 50% or lower, you are basically passing students who haven't actually learned the material. Stop passing students who haven't learned the material. Then they show up to my class and I have to fail them for not having the prerequisite knowledge, and they complain to me and my department about how unfair it is that they failed my class when they got a passing grade in the previous class.
 
