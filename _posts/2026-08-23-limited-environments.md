@@ -158,6 +158,6 @@ But at the same time, the framework itself imposes certain limitations. We don't
 
 A part of me is very excited about the power of all these modern tools, and I wonder what learners become when exposed to their full power. But another part of me wonders if the optimal learning experience isn't something simpler. Walled gardens, carefully designed constraints, and inauthentically limited environments might actually foster deeper learning and creativity than unrestricted access to all the tools at once.
 
-Or maybe I'm just getting old. Who can say? I guess time will tell. For now, I'm not quite ready for the curtain to fall on limited environments for learning.
+Or maybe I'm just getting old and nostalgic. Maybe I'm rationalizing my childhood. Who can say? I guess time will tell. For now, I'm not quite ready for the curtain to fall on limited environments for learning.
 
 ![The cast of Broadway](/images/bw-actor-models.png)
