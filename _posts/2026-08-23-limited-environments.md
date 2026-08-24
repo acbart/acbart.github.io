@@ -20,7 +20,7 @@ tags:
     ]
 ---
 
-This article about came up on Hacker News yesterday about [Canon](https://tau.dev/2026/08/07/canon), a simple MUD that the developer created to let his daughter make video games. Specifically, [Multi-User Dungeon](https://en.wikipedia.org/wiki/Multi-user_dungeon) games.
+This article came up on Hacker News yesterday about [Canon](https://tau.dev/2026/08/07/canon), a simple MUD that the developer created to let his daughter make video games. Specifically, [Multi-User Dungeon](https://en.wikipedia.org/wiki/Multi-user_dungeon) games.
 
 Although I'm just old enough to have played MUDs as a child, they weren't a part of my youth. That said, I completely understand their appeal. There's something really beautiful about limited environments and the creativity they inspire within those constraints.
 
@@ -148,7 +148,7 @@ Guzdial had students removing red-eye from photographs using Python functions. E
 
 AI is making it easier to make software - whatever else is happening with AI, that seems to be true. It has never been easier to make things, although that does not mean that it is any easier to _learn_ how to make things. I believe quite earnestly that you need friction in order to learn, and AI removes some of that friction.
 
-Correspondingly, environments have never been less limited. I have so much RAM and memory on my computer, that I can afford to be wasteful. This is a stark contrast to the constraints I faced on the XO Laptop, where every byte mattered and inefficiencies were painfully obvious. I had to fight and squeeze out every single optimization, because it really mattered to me to make these games.
+Correspondingly, environments have never been less limited. I have so much RAM and memory on my computer, that I can afford to be wasteful. This is a stark contrast to the constraints I faced on the XO Laptop and Klik-n-Play, where every byte mattered and inefficiencies were painfully obvious. I had to fight and squeeze out every single optimization, because it really mattered to me to make these games.
 
 Constraints are a beautiful thing. They make you more creative, and I think they can be powerful motivators for learning. I worry about a future where everything is so easy that you don't have to think as much.
 
