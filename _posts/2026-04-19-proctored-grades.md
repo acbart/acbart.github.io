@@ -18,7 +18,7 @@ Let us say that you were developing a new course, and needed to decide on the gr
 
 Let us say that you cannot trust the unproctored grades, for whatever reason. Perhaps students are using AI tools to complete their homework, or they are sharing answers with each other, or they found people willing to complete the work for money, or the answers are on Cheggs, or your arch-nemesis in the department is sabotaging your course by giving out answers, or whatever. The point is that you believe that students who do not understand the material are getting perfect scores on the unproctored assignments.
 
-Let us say further, for the sake of argument, that you can trust the unproctored grades. We'll take for granted that you have created good exams (following proper instructional design methodology, conducted cognitive task analyses, etc.), that you have a high-quality testing center that provides a secure environment for students to take exams, and you were actively engaged with your students during lecture activities with a good team of TAs. So you have some confidence that the proctored grades are a valid measure of your students' learning.
+Let us say further, for the sake of argument, that you can trust the proctored grades. We'll take for granted that you have created good exams (following proper instructional design methodology, conducted cognitive task analyses, etc.), that you have a high-quality testing center that provides a secure environment for students to take exams, and you were actively engaged with your students during lecture activities with a good team of TAs. So you have some confidence that the proctored grades are a valid measure of your students' learning.
 
 Next, let us say that your academic program has a grade scale much like mine:
 
@@ -79,7 +79,7 @@ Instead of adjusting the proctored weight, you could also build an exam where th
 
 I am not here in this part of the blog post to tell you what thresholds to use or how you should run your course. I just wanted to highlight that the math here may be a bit surprising: if you want to fail students who are getting perfect unproctored grades, you need to set the weight of the proctored assignments to be pretty high.
 
-# Conclusion
+# Up on the Soapbox
 
 Okay so in _this part_ of the blog post, I'm telling you to set higher thresholds. If you're using 50% or lower, you are basically passing students who haven't actually learned the material. Stop passing students who haven't learned the material. Then they show up to my class and I have to fail them for not having the prerequisite knowledge, and they complain to me and my department about how unfair it is that they failed my class when they got a passing grade in the previous class.
 
