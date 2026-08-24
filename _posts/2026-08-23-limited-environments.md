@@ -44,9 +44,7 @@ Obviously, this was extremely tedious. But if you were a small child who wanted 
 
 A particular noteworthy project for me was a Megaman game that never saw completion. I think I finished two levels. But it was when I was working on the second level that I realized I had a problem. You see, KnP only allowed you to store 8 integer variables between "frames" (rooms/screens). But everyone knows that Megaman games have 8 robot master weapons, each with their own energy bar, plus Megaman's health itself. How could I possibly fit 9 numbers into 8 variables?
 
-The solution came when I realized that I didn't need the full range of numbers. Each weapon had a maximum of 20 energy points. I could store each weapon's energy in a single digit by using a base-20 system. Now, at the time I had _absolutely no idea that was what I was doing_. I'm pretty sure I didn't actually know what modulo was, just that I could do some horrifying things with math to make it work. No one had ever explained the idea of Bit Packing to me, and I didn't even really know what a bit was back then. But I had a problem, and I found a solution that worked.
-
-![Example of base-20 number storage in Klik-n-Play, courtesy of ChatGPT](/images/knp_bit_packing.png)
+The solution came when I realized that I didn't need the full range of numbers. Each weapon had a maximum of 9 energy points. I could store each weapon's energy in a single digit! Now, at the time I had _absolutely no idea that was what I was doing_. I'm pretty sure I didn't actually know what modulo was, just that I could do some horrifying things with math to make it work. No one had ever explained the idea of Bit Packing to me, and I didn't even really know what a bit was back then. But I had a problem, and I found a solution that worked.
 
 It was around this time that my brother asked me, "Why are you jumping through all these hoops to make a game, when you could just use a different game development program?" This had not occurred to me, so he helped me find some alternatives. That brought me to Game Maker.
 
